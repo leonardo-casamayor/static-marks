@@ -1,15 +1,109 @@
-Example-Collection:
-  - Bucket:
-    - Link 1: https://youtube.com
-    - Link 2:
-      - https://dynalist.com
-    - Link with notes:
-      - https://example.com
-      - This is a text note
-      - Link note: https://example.com
-
-Collection with Links:
-  - static-marks:
-    - static-marks repository: https://github.com/darekkay/static-marks
-    - github-pages as template-project: https://gaerfield.github.io/static-marks-github-pages
-    - docker-template as alternative: https://github.com/gaerfield/static-marks-docker
+Imported:
+  - Theory:
+      - Swift - Advanced: >-
+          https://docs.google.com/presentation/d/1k9yYUQ7OowR9V45Y8zZG7j21nRAmgAfk8vvhN6qHhSY/edit#slide=id.p5
+      - POP in practice - Google Slides: >-
+          https://docs.google.com/presentation/d/1j1khbKxvxkbgn0Tdma4Hy8D6iAYEeZniN2us0kRS8Ig/edit#slide=id.p1
+      - Code Smells: https://sourcemaking.com/refactoring/smells
+      - Design Patterns Theory: https://sourcemaking.com/design_patterns
+      - Design Patterns Summary: https://drive.google.com/file/d/1MvJtcld_4n0OukZFwM-02ifpR31fHzMn/view
+      - Book - The Art of Unit Testing: >-
+          https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
+      - View Lifecycle in iOS: https://candost.blog/view-lifecycle-in-ios/
+      - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
+      - URLSession | Apple Developer Documentation: https://developer.apple.com/documentation/foundation/urlsession
+      - Meet - DMED Training - Nasa G2: https://meet.google.com/edm-ekeo-bdi
+  - Courses:
+      - Globant University: https://university.globant.com/
+      - iOS form Scratch: https://university.globant.com/group/1049
+      - Code Reviews: https://globant.acamica.com/cursos/291/
+      - Código de Calidad y Refactoring: https://globant.acamica.com/cursos/215/codigo-de-calidad-y-refactoring
+      - SOLID: https://globant.acamica.com/cursos/234/solid
+      - Apps en iOS: >-
+          https://www.youtube.com/playlist?list=PLS4-ShDA9mk9SjP_CU0Jd-zWnTlVsaAd4
+      - Leadership Onboarding: https://university.globant.com/group/29
+      - UIKit Course: https://www.udacity.com/course/uikit-fundamentals--ud788
+      - Git Course: https://globant.acamica.com/cursos/29/git
+      - The Basics of Conflict Resolution: https://globant.acamica.com/cursos/320/
+      - The Basics of Negotiation: https://globant.acamica.com/cursos/324/
+      - Risk Management: https://globant.acamica.com/cursos/627/
+  - Git:
+      - Hello World · GitHub Guides: https://guides.github.com/activities/hello-world/
+      - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+      - Git - Most useful commands: >-
+          https://docs.google.com/document/d/16vwPVqQX6B0qsHbPhV0PoD6vKSD5ym4Cb56VxEZ1JZk/edit
+      - Git Exercises: https://learngitbranching.js.org/
+      - How to use Github with Xcode: https://medium.com/swlh/how-to-use-github-with-xcode11-8a93b64ff1bc
+      - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
+      - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
+      - Pull requests · david-lizarazo/Training2021-G2: https://github.globant.com/david-lizarazo/Training2021-G2/pulls
+      - 'Beginner Friendly: Using Multiple SSH keys': >-
+          https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
+  - Swift/iOS:
+      - Swift.org: https://swift.org/
+      - Learn Swift Programming: https://www.programiz.com/swift-programming
+      - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+      - Color Palettes: https://colorhunt.co/
+      - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
+      - Swift - Videos - Apple Developer: https://developer.apple.com/videos/developer-tools/swift/
+      - Github SwiftLint: https://github.com/realm/SwiftLint
+      - quicktype: https://github.com/quicktype/quicktype
+      - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
+      - Pass Data Between View Controllers – LearnAppMaking: >-
+          https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
+      - Generics in Swift Explained (How To) – LearnAppMaking: https://learnappmaking.com/generics-swift-how-to/
+      - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
+  - Testing:
+      - Swift TDD. How Many Unit Tests to Write?: >-
+          https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/
+      - iOS Unit and UI Testing Tutorial: >-
+          https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
+      - TDD Tutorial for iOS: >-
+          https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
+      - Test-Driven Development Tutorial for iOS: https://instabug.com/blog/test-driven-development-tutorial/
+      - How to TDD in MVC: https://qualitycoding.org/mvc-tdd/
+      - Unit Testing View Controllers and Views: >-
+          https://www.vadimbulavin.com/unit-testing-view-controller-uiviewcontroller-and-uiview-in-swift/
+  - Architecture:
+      - Dependency Injection in Swift: https://cocoacasts.com/dependency-injection-in-swift
+      - Advanced Dependency Injection on iOS: https://www.vadimbulavin.com/dependency-injection-in-swift/
+      - Clean architecture for iOS: >-
+          https://saad-eloulladi.medium.com/clean-architecture-for-ios-viper-vip-c19de40b71e2
+      - iOS-mvp-sample: https://github.com/iyadagha/iOS-mvp-sample
+      - MVP in iOS with swift: http://iyadagha.com/using-mvp-ios-swift/
+      - iOS App Architecture: >-
+          https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0/chapters/2-which-architecture-is-right-for-me
+      - Clean architecture and MVVM.: https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
+      - Model-View-Controller (MVC) in iOS – A Modern Approach | raywenderlich.com: >-
+          https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
+  - SwiftUI:
+      - SwiftUI Stanford: >-
+          https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
+      - 100 Days of SwiftUI: https://www.hackingwithswift.com/100/swiftui
+      - SwiftUI Tutorials | Apple: https://developer.apple.com/tutorials/swiftui
+      - SwiftUI Tutorials - Sean Allen: >-
+          https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+      - Move to next text field with Swift: https://programmingwithswift.com/move-to-next-text-field-with-swift/
+  - Designables:
+      - 'iOS Dev Course: How to create custom @IBDesignable UIView | by Maxim Vialyx | Medium': >-
+          https://medium.com/@vialyx/import-uikit-custom-ibdesignable-uiview-cd26cf7e606c
+      - IBInspectable / IBDesignable - NSHipster: https://nshipster.com/ibinspectable-ibdesignable/
+      - What’s IBDesignable / IBInspectable? | by Geraldo Bastos | Medium: >-
+          https://medium.com/@GeraldoBastos/whats-ibdesignable-ibinspectable-292829384e1
+  - CollectionView:
+      - CollectionView Compositional Layout: https://www.youtube.com/watch?v=vAhas_my5mo
+      - Getting Started with CompositionalLayout: >-
+          https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
+      - Modern Collection Views with Compositional Layouts | raywenderlich: >-
+          https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
+  - Screenings:
+      - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
+      - Building Adaptive Layout with Size Classes — Programmatically | by Batikan Sosun | Archived — Flawless iOS | Medium: >-
+          https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
+      - ConfigRefactorNotes.md: >-
+          https://github.globant.com/gist/leonardo-casamayor/86dd734b007126a6329022ba6fa033e7
+  - Python:
+      - Web Scraping Using Python Selenium | Toptal: https://www.toptal.com/python/web-scraping-with-python
+      - Modern Web Automation With Python and Selenium – Real Python: https://realpython.com/modern-web-automation-with-python-and-selenium/
+      - 'Selenium with Python : Getting Started with Automation | BrowserStack': >-
+          https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
