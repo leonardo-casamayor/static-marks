@@ -1,0 +1,460 @@
+iOS Stuff:
+  - Theory:
+      - Swift - Advanced: >-
+          https://docs.google.com/presentation/d/1k9yYUQ7OowR9V45Y8zZG7j21nRAmgAfk8vvhN6qHhSY/edit#slide=id.p5
+      - POP in practice - Google Slides: >-
+          https://docs.google.com/presentation/d/1j1khbKxvxkbgn0Tdma4Hy8D6iAYEeZniN2us0kRS8Ig/edit#slide=id.p1
+      - Code Smells: https://sourcemaking.com/refactoring/smells
+      - Design Patterns Theory: https://sourcemaking.com/design_patterns
+      - Design Patterns Summary: https://drive.google.com/file/d/1MvJtcld_4n0OukZFwM-02ifpR31fHzMn/view
+      - Book - The Art of Unit Testing: >-
+          https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
+      - View Lifecycle in iOS: https://candost.blog/view-lifecycle-in-ios/
+      - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
+      - URLSession | Apple Developer Documentation: https://developer.apple.com/documentation/foundation/urlsession
+      - Meet - DMED Training - Nasa G2: https://meet.google.com/edm-ekeo-bdi
+  - Courses:
+      - Globant University: https://university.globant.com/
+      - iOS form Scratch: https://university.globant.com/group/1049
+      - Code Reviews: https://globant.acamica.com/cursos/291/
+      - Código de Calidad y Refactoring: https://globant.acamica.com/cursos/215/codigo-de-calidad-y-refactoring
+      - SOLID: https://globant.acamica.com/cursos/234/solid
+      - Apps en iOS: >-
+          https://www.youtube.com/playlist?list=PLS4-ShDA9mk9SjP_CU0Jd-zWnTlVsaAd4
+      - Leadership Onboarding: https://university.globant.com/group/29
+      - UIKit Course: https://www.udacity.com/course/uikit-fundamentals--ud788
+      - Git Course: https://globant.acamica.com/cursos/29/git
+      - The Basics of Conflict Resolution: https://globant.acamica.com/cursos/320/
+      - The Basics of Negotiation: https://globant.acamica.com/cursos/324/
+      - Risk Management: https://globant.acamica.com/cursos/627/
+  - Git:
+      - Hello World · GitHub Guides: https://guides.github.com/activities/hello-world/
+      - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+      - Git - Most useful commands: >-
+          https://docs.google.com/document/d/16vwPVqQX6B0qsHbPhV0PoD6vKSD5ym4Cb56VxEZ1JZk/edit
+      - Git Exercises: https://learngitbranching.js.org/
+      - How to use Github with Xcode: https://medium.com/swlh/how-to-use-github-with-xcode11-8a93b64ff1bc
+      - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
+      - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
+      - Pull requests · david-lizarazo/Training2021-G2: https://github.globant.com/david-lizarazo/Training2021-G2/pulls
+      - 'Beginner Friendly: Using Multiple SSH keys': >-
+          https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
+  - Swift/iOS:
+      - Swift.org: https://swift.org/
+      - Learn Swift Programming: https://www.programiz.com/swift-programming
+      - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+      - Color Palettes: https://colorhunt.co/
+      - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
+      - Swift - Videos - Apple Developer: https://developer.apple.com/videos/developer-tools/swift/
+      - Github SwiftLint: https://github.com/realm/SwiftLint
+      - quicktype: https://github.com/quicktype/quicktype
+      - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
+      - Pass Data Between View Controllers – LearnAppMaking: >-
+          https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
+      - Generics in Swift Explained (How To) – LearnAppMaking: https://learnappmaking.com/generics-swift-how-to/
+      - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
+  - Testing:
+      - Swift TDD. How Many Unit Tests to Write?: >-
+          https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/
+      - iOS Unit and UI Testing Tutorial: >-
+          https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
+      - TDD Tutorial for iOS: >-
+          https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
+      - Test-Driven Development Tutorial for iOS: https://instabug.com/blog/test-driven-development-tutorial/
+      - How to TDD in MVC: https://qualitycoding.org/mvc-tdd/
+      - Unit Testing View Controllers and Views: >-
+          https://www.vadimbulavin.com/unit-testing-view-controller-uiviewcontroller-and-uiview-in-swift/
+  - Architecture:
+      - Dependency Injection in Swift: https://cocoacasts.com/dependency-injection-in-swift
+      - Advanced Dependency Injection on iOS: https://www.vadimbulavin.com/dependency-injection-in-swift/
+      - Clean architecture for iOS: >-
+          https://saad-eloulladi.medium.com/clean-architecture-for-ios-viper-vip-c19de40b71e2
+      - iOS-mvp-sample: https://github.com/iyadagha/iOS-mvp-sample
+      - MVP in iOS with swift: http://iyadagha.com/using-mvp-ios-swift/
+      - iOS App Architecture: >-
+          https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0/chapters/2-which-architecture-is-right-for-me
+      - Clean architecture and MVVM.: https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
+      - Model-View-Controller (MVC) in iOS – A Modern Approach | raywenderlich.com: >-
+          https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
+      - What you should know about iOS architecture: https://brightdigit.com/articles/ios-software-architecture/
+  - SwiftUI:
+      - SwiftUI Stanford: >-
+          https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
+      - 100 Days of SwiftUI: https://www.hackingwithswift.com/100/swiftui
+      - SwiftUI Tutorials | Apple: https://developer.apple.com/tutorials/swiftui
+      - SwiftUI Tutorials - Sean Allen: >-
+          https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+      - Move to next text field with Swift: https://programmingwithswift.com/move-to-next-text-field-with-swift/
+  - Designables:
+      - 'iOS Dev Course: How to create custom @IBDesignable UIView | by Maxim Vialyx | Medium': >-
+          https://medium.com/@vialyx/import-uikit-custom-ibdesignable-uiview-cd26cf7e606c
+      - IBInspectable / IBDesignable - NSHipster: https://nshipster.com/ibinspectable-ibdesignable/
+      - What’s IBDesignable / IBInspectable? | by Geraldo Bastos | Medium: >-
+          https://medium.com/@GeraldoBastos/whats-ibdesignable-ibinspectable-292829384e1
+  - CollectionView:
+      - CollectionView Compositional Layout: https://www.youtube.com/watch?v=vAhas_my5mo
+      - Getting Started with CompositionalLayout: >-
+          https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
+      - Modern Collection Views with Compositional Layouts | raywenderlich: >-
+          https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
+  - Networking:
+      - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
+  - Screenings:
+      - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
+      - Building Adaptive Layout with Size Classes — Programmatically | by Batikan Sosun | Archived — Flawless iOS | Medium: >-
+          https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
+      - ConfigRefactorNotes.md: >-
+          https://github.globant.com/gist/leonardo-casamayor/86dd734b007126a6329022ba6fa033e7
+  - Python:
+      - Web Scraping Using Python Selenium | Toptal: https://www.toptal.com/python/web-scraping-with-python
+      - Modern Web Automation With Python and Selenium – Real Python: https://realpython.com/modern-web-automation-with-python-and-selenium/
+      - 'Selenium with Python : Getting Started with Automation | BrowserStack': >-
+          https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+Orion:
+  - Nitter:
+      - nitter.fly.dev: https://nitter.fly.dev/
+      - Instances · zedeus/nitter Wiki: https://github.com/zedeus/nitter/wiki/Instances
+  - borg:
+      - Emborg — Front-End to Borg Backup — emborg 1.34 documentation: https://emborg.readthedocs.io/en/latest/
+      - 'borgmatic-collective/borgmatic: Simple, configuration-driven backup software for servers and workstations': https://github.com/borgmatic-collective/borgmatic
+      - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
+      - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
+      - BorgWarehouse - BorgBackup Web UI for your central repository server.: https://borgwarehouse.com/
+  - DFV:
+      - https://taldavidson.com/deep-value-screeners/deep-value-what-is-it/: https://dynalist.io/d/JkQw0ABmj5OIIrpuOfUW-RHm
+      - Short Squeeze - Overview, How It Works, and How to Spot It: >-
+          https://corporatefinanceinstitute.com/resources/capital-markets/short-squeeze/
+      - 'Short Interest Stock Short Selling Data, Shorts, Stocks: Short Squeeze': https://shortsqueeze.com/
+      - 'Options Explained - A Quick Beginners Guide : wallstreetbets': >-
+          https://www.reddit.com/r/wallstreetbets/comments/k2a2j8/options_explained_a_quick_beginners_guide/
+      - 'A Beginner and Intermediate Guide To Options: Everything You Need To Know To Stop Losing Money Like A Complete Tard : wallstreetbets': >-
+          https://www.reddit.com/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/
+      - What is Leverage and What Does it Mean for Options Traders? | Nasdaq: >-
+          https://www.nasdaq.com/articles/what-is-leverage-and-what-does-it-mean-for-options-traders
+      - How Options Provide Leverage (And the Risks Involved): >-
+          https://www.merrilledge.com/investment-products/options/options-trading-leverage-risk
+      - THETA GANG: https://thetagang.com/
+  - Hugo Themes:
+      - Shell | Hugo Themes: https://themes.gohugo.io/themes/hugo-theme-shell/
+      - Hugo Profile | Hugo Themes: https://themes.gohugo.io/themes/hugo-profile/
+      - terminal | Hugo Themes: https://themes.gohugo.io/themes/hugo-theme-terminal/
+  - markdown cv:
+      - 'elipapa/markdown-cv: a simple template to write your CV in a readable markdown file and use CSS to publish/print it.': https://github.com/elipapa/markdown-cv
+      - Markdown-cv, style your markdown resume: https://elipapa.github.io/markdown-cv/
+  - guitar:
+      - Blackbird Guitar Lesson 🎸 The Beatles Tutorial |Fingerpicking + TAB| - YouTube: https://www.youtube.com/watch?v=7eT9yho03Ho
+      - Across The Universe Guitar Tutorial The Beatles Guitar Lesson |Chords & Strumming| - YouTube: https://www.youtube.com/watch?v=aJicFE15j2c
+      - Queen Of California Guitar Tutorial 🎸 John Mayer Guitar Lesson |Fingerpicking + Solo + TAB| - YouTube: >-
+          https://www.youtube.com/watch?v=BfeEtzmbhis&list=PLuEQzkpotHRbxBBUV3lWaRJHgKefITZqK&index=13
+      - Neon Guitar Tutorial John Mayer Guitar Lesson Live In LA FULL LESSON - YouTube: >-
+          https://www.youtube.com/watch?v=fiRNnUSrw4c&list=PLuEQzkpotHRbxBBUV3lWaRJHgKefITZqK&index=25
+  - Hammerspoon:
+      - Learn Lua in Y Minutes: https://learnxinyminutes.com/docs/lua/
+      - Getting Started: https://www.hammerspoon.org/go/#smartreload
+  - Git Submodules:
+      - Git submodule | Atlassian: https://www.atlassian.com/git/tutorials/git-submodule
+      - Working with submodules | The GitHub Blog: https://github.blog/2016-02-01-working-with-submodules/
+      - GitHub Skills: https://skills.github.com/
+      - GitHub flow - GitHub Docs: https://docs.github.com/en/get-started/quickstart/github-flow
+  - WG:
+      - networking - Connect 2 sites (networks) with Wireguard - Unix & Linux Stack Exchange: >-
+          https://unix.stackexchange.com/questions/639179/connect-2-sites-networks-with-wireguard
+      - 'Trying to bridge two networks with WireGuard (moving from OpenVPN) : WireGuard': >-
+          https://www.reddit.com/r/WireGuard/comments/fm07wj/trying_to_bridge_two_networks_with_wireguard/
+      - '[OpenWrt Wiki] WireGuard server': https://openwrt.org/docs/guide-user/services/vpn/wireguard/server
+      - OpenWRT - Configure Wireguard Server - YouTube: https://www.youtube.com/watch?v=BKdPWOXD75I
+      - How To Set Up A VPN On A Router // Wireguard on OpenWrt - YouTube: https://www.youtube.com/watch?v=04q41GEPvKA&t=317s
+  - nnn:
+      - 'jarun/nnn: n³ The unorthodox terminal file manager': https://github.com/jarun/nnn#features
+      - Usage · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Usage
+      - Concepts · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/concepts
+      - Advanced use cases · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Advanced-use-cases
+      - Basic use cases · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Basic-use-cases#detached-text
+  - Bookmarks Bar:
+      - 'JohnSundell/Publish: A static site generator for Swift developers': https://github.com/JohnSundell/Publish
+      - Exporting podcasts from iOS app as OPML - Ask Different: >-
+          https://apple.stackexchange.com/questions/374696/exporting-podcasts-from-ios-app-as-opml
+Old Bookmarks:
+  - Arch:
+      - LukeSmithxyz/LARBS: https://github.com/LukeSmithxyz/LARBS
+      - Archiso - ArchWiki: https://wiki.archlinux.org/index.php/archiso
+      - archlinux/archinstall: https://github.com/archlinux/archinstall
+  - Argh!:
+      - Rutracker: >-
+          https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Frutracker.org%2Fforum%2Flogin.php
+      - Pirate Bay Proxy List | Unblock ThePirateBay | Pirate Bay Mirror Sites - PirateBay Proxy List: https://pirateproxy.wtf/
+      - Torrentz2 Search Engine: http://torrentz2.is/
+      - AIO Search - Search Torrents Sites: http://www.aiosearch.com/
+  - Audio Prod:
+      - ardour - the digital audio workstation: https://ardour.org/
+      - LMMS | Home: https://lmms.io/
+      - Radium - The music editor: http://users.notam02.no/~kjetism/radium
+      - Non: https://non.tuxfamily.org/
+  - Books:
+      - Marxists Internet Archive: https://www.marxists.org/index-mobiles.htm
+      - Library Genesis: http://libgen.is/
+      - 7 Best Philosophy Books for Beginners | Campus Career Club: https://www.campuscareerclub.com/best-philosophy-books-for-beginners/
+      - The 10 Best Philosophy Books For Beginners | by Gregory B. Sadler, Ph.D. | Medium: >-
+          https://medium.com/@Gregory_Sadler/the-10-best-philosophy-books-for-beginners-6d1326f81d5
+      - Home | John Hunt Publishing: https://www.johnhuntpublishing.com/
+      - Verso: https://www.versobooks.com/books
+      - Haymarket Books: https://www.haymarketbooks.org/
+      - Biblio: http://biblio.com/
+      - Open Library: https://openlibrary.org/
+      - OpenLibra | EtnasSoft: http://www.etnassoft.com/biblioteca
+      - Gutenberg - Free ebooks: https://www.gutenberg.org/
+      - Book Depository: https://www.bookdepository.com/
+      - UCA - Biblioteca Digital: http://bibliotecadigital.uca.edu.ar/greenstone/cgi-bin/library.cgi
+  - bspwm:
+      - JopStro/bspswallow: https://github.com/JopStro/bspswallow/tree/master/alternative
+      - cmschuetz/btops: https://github.com/cmschuetz/btops#dynamic-with-classified-renamers
+  - Computer Science:
+      - Panopticlick: https://panopticlick.eff.org/
+      - folding at home - Google Search: >-
+          https://www.google.com/search?q=folding+at+home&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari
+      - AMTSO: http://www.amtso.org/
+      - 'WiGLE: Wireless Network Mapping': https://wigle.net/
+      - Curso Latex: http://www.mat.uda.cl/hsalinas/latex.htm
+  - Cursos:
+      - Unix / Linux - Environment - Tutorialspoint: https://www.tutorialspoint.com/unix/unix-environment.htm
+      - LeetCode: https://leetcode.com/
+      - Pluralsight: https://www.pluralsight.com/
+      - Treehouse: https://teamtreehouse.com/build
+      - Udemy: https://www.udemy.com/
+      - Udacity: https://www.udacity.com/
+      - edX: https://www.edx.org/courses
+      - MIT OpenCourseWare: http://ocw.mit.edu/index.htm
+      - Open Yale Courses: http://oyc.yale.edu/courses
+      - Coursera: https://www.coursera.org/courses
+  - Docker:
+      - 'GitHub - nextcloud/docker: ⛴ Docker image of Nextcloud': https://github.com/nextcloud/docker
+      - docker/.examples/docker-compose/with-nginx-proxy/mariadb/fpm at master · nextcloud/docker · GitHub: >-
+          https://github.com/nextcloud/docker/tree/master/.examples/docker-compose/with-nginx-proxy/mariadb/fpm
+      - Running an NGINX reverse proxy with Docker and Let's Encrypt on Compute Engine: >-
+          https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker
+  - Fokin Job M8:
+      - Apply to Top US Software Developer Jobs: https://turing.com/jobs
+      - SuccessFactors: https://career8.successfactors.com/
+      - Empleos - Bolsa de trabajo | Bumeran: https://www.bumeran.com.ar/
+      - Ingenieria: http://empleos.liruca.com.ar/Ingenieria
+      - Free software jobs — Free Software Foundation — working together for free software: https://www.fsf.org/resources/jobs
+      - Glassdoor | Encuentra el empleo perfecto para ti: https://www.glassdoor.com.ar/index.htm?countryRedirect=true
+      - LinkedIn: https://www.linkedin.com/feed/
+      - Job Openings. Find Job Opportunities & Local Listings | Jobs.com: http://www.jobs.com/
+  - FOSS:
+      - TMSU: https://tmsu.org/
+      - 'Tagsistant: semantic filesystem for Linux - Tagsistant': https://www.tagsistant.net/
+      - cedricfrancoys/tagger: https://github.com/cedricfrancoys/tagger#install
+      - Interactive dotfiles management with dotbare: >-
+          https://www.distrotube.com/blog/interactive-dotfiles-management-with-dotbare/
+      - Rcm guide: https://www.distrotube.com/blog/rcm-guide/
+      - stuntbanana/stuntbanana: https://github.com/stuntbanana/stuntbanana
+      - karlstav/cava: https://github.com/karlstav/cava
+      - MatMoul/archfi: https://github.com/MatMoul/archfi
+      - Derek Taylor / Shell Color Scripts: https://gitlab.com/dwt1/shell-color-scripts
+      - dylanaraps/pfetch: https://github.com/dylanaraps/pfetch
+      - corna/me_cleaner: https://github.com/corna/me_cleaner/wiki/Get-the-status-of-Intel-ME
+      - SathyaBhat/spotify-dl: https://github.com/SathyaBhat/spotify-dl
+      - ritiek/spotify-downloader: https://github.com/ritiek/spotify-downloader
+      - Rigellute/spotify-tui: https://github.com/Rigellute/spotify-tui
+      - dpayne/cli-visualizer: https://github.com/dpayne/cli-visualizer#usage
+      - vimwiki/vimwiki: https://github.com/vimwiki/vimwiki
+      - 'Pass: The Standard Unix Password Manager': https://www.passwordstore.org/
+      - sagarkarira/coronavirus-tracker-cli: https://github.com/sagarkarira/coronavirus-tracker-cli
+      - ExpDev07/coronavirus-tracker-api: https://github.com/ExpDev07/coronavirus-tracker-api
+      - NovelCOVID/API: https://github.com/NovelCOVID/API/
+      - Installing packages using pip and virtual environments — Python Packaging User Guide: >-
+          https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+      - gilesknap/gphotos-sync: https://github.com/gilesknap/gphotos-sync
+      - How To Backup Google Photos To Your Computer With gphotos-sync: >-
+          https://www.linuxuprising.com/2019/06/how-to-backup-google-photos-to-your.html
+      - jbszczepaniak/spotify-cli: https://github.com/jbszczepaniak/spotify-cli
+      - spotify-dl: https://pypi.org/project/spotify-dl/
+      - 'GitHub - mczachurski/wallpapper: Console application for creating dynamic wallpapers for macOS Mojave': https://github.com/mczachurski/wallpapper
+      - Wallpapers: https://unsplash.com/t/wallpapers
+      - Dynamic Wallpaper Club: https://dynamicwallpaper.club/
+      - 'Moving to zsh, part 2: Configuration Files': >-
+          https://scriptingosx.com/2019/06/moving-to-zsh-part-2-configuration-files/
+      - karabiner.json Reference Manual: https://karabiner-elements.pqrs.org/docs/json/
+      - laurent22/rsync-time-backup: https://github.com/laurent22/rsync-time-backup
+      - rsyncOSX/RsyncOSX: https://github.com/rsyncOSX/RsyncOSX
+  - FOSS Resources:
+      - List of applications - ArchWiki: >-
+          https://wiki.archlinux.org/index.php/List_of_applications#Collection_managers
+      - Gentoo Wiki Ricing: https://wiki.installgentoo.com/index.php/GNU/Linux_ricing
+      - Gentoo Wiki Recommendations: >-
+          https://wiki.installgentoo.com/index.php/List_of_recommended_GNU/Linux_software
+      - Luke Programs: https://lukesmith.xyz/programs
+      - cat -v: http://harmful.cat-v.org/software/
+      - mayfrost/guides: https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
+      - Suckless: https://suckless.org/rocks/
+  - Francés:
+      - Campus France Argentine: http://www.argentine.campusfrance.org/es
+      - Dictionnaires Larousse français: http://www.larousse.fr/dictionnaires/francais
+      - TV5MONDE - A2 élémentaire: http://apprendre.tv5monde.com/fr/niveaux/a2-elementaire
+      - Didier Latitudes: http://www.didierlatitudes.com/
+      - Le Conjugueur: http://leconjugueur.lefigaro.fr/
+  - Git:
+      - Resources to learn Git: https://try.github.io/
+      - Git Pull Force – How to Overwrite Local Changes With Git: >-
+          https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
+      - GitLab and SSH keys | GitLab: >-
+          https://docs.gitlab.com/ee/ssh/README.html#common-steps-for-generating-an-ssh-key-pair
+      - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
+      - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
+      - Git - About Version Control: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+      - Git - Book: https://git-scm.com/book/en/v2
+      - Resources to learn Git: https://try.github.io/
+  - Google:
+      - My Activity: https://myactivity.google.com/myactivity
+      - Google Translate: https://translate.google.com.ar/?hl=en-GB&tab=cT
+      - Google Photos: https://photos.google.com/
+      - Google Contacts: https://contacts.google.com/u/0/preview/all
+      - Google Calendar: https://www.google.com/calendar/render?tab=mc#main_7
+      - Drive: https://drive.google.com/drive/my-drive
+      - Gmail: https://mail.google.com/mail/u/0?tab=wm#inbox
+  - Hugo:
+      - 'Netlify: Develop & deploy the best web experiences in record time': https://www.netlify.com/
+      - Hugo Terrassa Theme: https://themes.gohugo.io/hugo-terrassa-theme/
+      - Quick Start: https://gohugo.io/getting-started/quick-start/
+      - theNewDynamic/gohugo-theme-ananke: https://github.com/theNewDynamic/gohugo-theme-ananke
+  - Linux:
+      - The FreeBSD Project: https://www.freebsd.org/
+      - Solus: https://getsol.us/home
+      - Manjaro: https://manjaro.org/
+      - Fedora: https://getfedora.org/
+      - Tails: https://tails.boum.org/
+      - Kali Linux: https://www.kali.org/
+      - DistroWatch: https://distrowatch.com/
+  - Mail:
+      - Mailnesia: https://mailnesia.com/
+      - Email green, secure, simple and ad-free - posteo.de: https://posteo.de/en
+      - 10 Minute Mail - Free Anonymous Temporary email - 10 Minute Mail - Free Anonymous Temporary email: https://10minutemail.com/
+      - ✉ Guerrilla Mail - Disposable Temporary E-Mail Address: https://www.guerrillamail.com/inbox
+      - spamgourmet: https://www.spamgourmet.com/index.pl
+  - Mail Server:
+      - How To Run Your Own Mail Server: https://www.c0ffee.net/blog/mail-server-guide/
+      - mailcow.email | The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕: https://mailcow.email/
+      - Mail-in-a-Box: https://mailinabox.email/
+  - pass:
+      - password-store - Simple password manager using gpg and ordinary unix directories.: https://git.zx2c4.com/password-store/about/#EXTENDED%20GIT%20EXAMPLE
+      - palortoff/pass-extension-tail: https://github.com/palortoff/pass-extension-tail#readme
+      - roddhjav/pass-update: https://github.com/roddhjav/pass-update#readme
+      - roddhjav/pass-import: https://github.com/roddhjav/pass-import#readme
+      - 'GitHub - cruegge/pam-gnupg: Unlock GnuPG keys on login': https://github.com/cruegge/pam-gnupg
+      - Home · mssun/passforios Wiki · GitHub: >-
+          https://vbo2hjs4mbfpz7xmr7fmqtkilq-jj2cvlaia66be-github-com.translate.goog/mssun/passforios/wiki#quick-start-guide-for-pass-for-ios
+      - 'Pass: The Standard Unix Password Manager': >-
+          https://34n45sesfan2m74p3kavw6sbpu-jj2cvlaia66be-www-passwordstore-org.translate.goog/
+      - The Definitive Guide to password-store | by Mathew Robinson | Medium: >-
+          https://medium.com/@chasinglogic/the-definitive-guide-to-password-store-c337a8f023a1
+      - pass - ArchWiki: >-
+          https://wiki.archlinux.org/index.php/Pass#Install_a_bare_Git_repository_for_Pass_on_the_server
+  - Pi Hole:
+      - unbound - Pi-hole documentation: https://docs.pi-hole.net/guides/dns/unbound/
+      - Unbound - About: https://nlnetlabs.nl/projects/unbound/about/
+      - kboghdady/youTube_ads_4_pi-hole: https://github.com/kboghdady/youTube_ads_4_pi-hole
+      - pi-hole/docker-pi-hole: https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker
+      - Pi-Hole Setup Tutorial: https://linustechtips.com/main/topic/1094810-pi-hole-setup-tutorial/
+      - How to Run PiHole in Docker on Ubuntu, w/ and w/o Reverse Proxy?: >-
+          https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy/
+      - 'Pi Hole setup guide: Ad-free better internet in 15 minutes': https://www.smarthomebeginner.com/pi-hole-setup-guide/
+  - Piano Sheet Music:
+      - Chopin - Nocturne in E Flat Major (Op. 9 No. 2): https://youtu.be/p29JUpsOSTE
+      - Beethoven - Moonlight Sonata (1st Movement): https://youtu.be/sbTVZMJ9Z2I
+      - Little Boy In The Grass - AURORA - Piano Transcription: https://musescore.com/user/80161/scores/5512972
+  - Privacy and Sec:
+      - Cover Your Tracks: https://coveryourtracks.eff.org/
+      - IP/DNS Detect: https://ipleak.net/
+      - Install LineageOS on surnia | LineageOS Wiki: https://wiki.lineageos.org/devices/surnia/install
+      - PrivacyTools - Encryption Against Global Mass Surveillance: https://privacytools.io/
+      - Just Delete Me | A directory of direct links to delete your account from web services.: https://justdeleteme.xyz/
+      - techlore-official/channel-content: >-
+          https://github.com/techlore-official/channel-content/blob/master/Resources/BA2020PDF.pdf
+  - Resources:
+      - Rough Guides: https://www.roughguides.com/destinations/europe/france
+      - Online Barista Training, Coffee Barista Course, Barista Classes: https://www.baristahustle.com/
+      - Internet Archive: https://archive.org/
+      - Zooniverse Projects: https://www.zooniverse.org/#/projects
+      - Beautiful Free Images & Pictures | Unsplash: https://unsplash.com/
+      - Baterías - Puntos de Recolección: >-
+          http://www.buenosaires.gob.ar/areas/med_ambiente/apra/des_sust/res_esp/empresa_recoleccion.php?menu_id=32341
+      - DondeReciclo.org: http://www.dondereciclo.org.ar/
+      - Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+      - Sci-Hub: https://sci-hub.tw/
+      - FreeROMS: https://www.freeroms.com/
+      - All Game ROMs | Emulator.Games: https://emulator.games/roms
+      - GeeksforGeeks: https://www.geeksforgeeks.org/
+      - PortableApps.com: https://portableapps.com/
+      - Digital Attack Map: https://www.digitalattackmap.com/understanding-ddos
+      - Terrorist Attacks: http://storymaps.esri.com/stories/2017/terrorist-attacks
+  - Sonido:
+      - Diana Deutsch - Auditory Theory: http://deutsch.ucsd.edu/psychology/pages.php?i=101
+      - Powersoft Audio: http://www.powersoft-audio.com/en
+      - Meyer Sound: http://www.meyersound.com/index.php
+      - Attack Magazine: http://www.attackmagazine.com/
+      - DSIT Underwater Acoustics: http://www.dsit.co.il/
+      - esunico: http://esunico.com.ar/index.htm
+      - Gaes - Centros Auditivos: http://www.gaesargentina.com.ar/
+      - Hearing Instrument Fitting: http://audioscan.com/
+      - Audio Development Laboratory: >-
+          https://www.nasa.gov/centers/johnson/engineering/human_space_vehicle_systems/audio_development_laboratory/index.html
+      - UNSW: http://www.phys.unsw.edu.au/music
+      - Acoustics Today: http://acousticstoday.org/#
+      - Acústica Web: http://www.acusticaweb.com/
+      - ISRA 2013 Papers: http://www.caa-aca.ca/conferences/isra2013/proceedings/index.html
+      - Acústica Submarina: https://sites.google.com/site/alejandroossesv/acustica-submarina
+  - Tabs:
+      - THE PRESENT TENSE TAB (ver 2) by Radiohead @ Ultimate-Guitar.Com: >-
+          https://tabs.ultimate-guitar.com/tab/radiohead/the-present-tense-tabs-1843811
+      - FAUST ARP TAB by Radiohead @ Ultimate-Guitar.Com: https://tabs.ultimate-guitar.com/tab/radiohead/faust_arp_tabs_589378
+      - Faust Arp - Radiohead (Tutorial) - YouTube: https://www.youtube.com/watch?v=mh9Uch_nw8Y
+      - The Metal tab (ver 3) by Tenacious D: https://tabs.ultimate-guitar.com/t/tenacious_d/the_metal_ver3_tab.htm
+      - Na baixa do sapateiro (arr. Joao Gilberto played by Lawrence) - YouTube: https://www.youtube.com/watch?v=UxHLkOT1wLk
+      - joao gilebrto na baixa do sapateiro (step by step) - YouTube: https://www.youtube.com/watch?v=JrLaCoFSbNI
+      - datails about na baixa do sapateiro by Joao Gilberto - YouTube: https://www.youtube.com/watch?v=M66W_3R9h9E
+      - Black Mountain Side: >-
+          http://tabs.ultimate-guitar.com/l/led_zeppelin/black_mountain_side_tab.htm
+      - Horizons: http://tabs.ultimate-guitar.com/g/genesis/horizons_tab.htm
+      - Scarified: http://tabs.ultimate-guitar.com/r/racer_x/scarified_ver3_tab.htm
+      - Everyday I Have The Blues: >-
+          http://tabs.ultimate-guitar.com/j/john_mayer/everyday_i_have_the_blues_tab.htm
+      - The Clap - Steve Howe - YouTube: https://www.youtube.com/watch?v=FNRrde2hRKc
+      - The Clap - Slowed Down (Guitar Lesson) - YouTube: https://www.youtube.com/watch?v=tQCJ-mHFH80
+      - Nico These Days: https://www.youtube.com/watch?v=A3RbBmWVQDU
+      - Neon: http://tabs.ultimate-guitar.com/j/john_mayer/neon_acoustic_tab.htm
+      - Faust Arp: http://tabs.ultimate-guitar.com/r/radiohead/faust_arp_tab.htm
+  - Terminal:
+      - XDG Base Directory - ArchWiki: https://wiki.archlinux.org/index.php/XDG_Base_Directory
+      - 'GitHub - romkatv/powerlevel10k: A Zsh theme': https://github.com/romkatv/powerlevel10k
+      - 'Sweet Shell: With Oh-My-Zsh, SpaceVim, Gruvbox, True Color, and Demo Mode. For macOS, Linux, and Windows 10': https://bretfisher.com/shell
+      - 'GitHub - dylanaraps/pywal: 🎨 Generate and change color-schemes on the fly.': https://github.com/dylanaraps/pywal
+      - Nord: https://www.nordtheme.com/
+      - Solarized: https://ethanschoonover.com/solarized/
+      - 'GitHub - morhetz/gruvbox: Retro groove color scheme for Vim': https://github.com/morhetz/gruvbox
+      - Dracula — Dark theme for 129+ apps: https://draculatheme.com/
+  - Tesis:
+      - AppArmor security profiles for Docker: https://docs.docker.com/engine/security/apparmor/
+      - A Linux sysadmin's introduction to cgroups: https://www.redhat.com/sysadmin/cgroups-part-one
+      - Mandatory access control - Wikipedia: https://en.wikipedia.org/wiki/Mandatory_access_control
+      - seccomp - Wikipedia: https://en.wikipedia.org/wiki/Seccomp
+      - Improving Linux container security with seccomp: https://www.redhat.com/sysadmin/container-security-seccomp
+      - What is a Container? | Docker: https://www.docker.com/resources/what-container
+      - A Beginner-Friendly Introduction to Containers, VMs and Docker: >-
+          https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/
+      - Microservices vs. Monolith – A Paradigm Shift in Software Development: >-
+          https://easy-software.com/en/newsroom/microservices-vs-monolith-a-paradigm-shift-in-software-development/
+      - Containerization using Docker - GeeksforGeeks: https://www.geeksforgeeks.org/containerization-using-docker/
+      - What is Application Containerization?: >-
+          https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization
+      - Best practices for operating containers | Architectures: >-
+          https://cloud.google.com/solutions/best-practices-for-operating-containers
+      - Plagiarism Checker Free | Accurate with Percentage: https://plagiarismdetector.net/
+  - Vim:
+      - Vim Tips Wiki | Fandom: https://vim.fandom.com/wiki/Vim_Tips_Wiki
+      - dhruvasagar/vim-dotoo: https://github.com/dhruvasagar/vim-dotoo
+  - zsh:
+      - zshrc: https://gist.github.com/LukeSmithxyz/e62f26e55ea8b0ed41a65912fbebbe52
+      - .zshrc · master · Derek Taylor / Dotfiles · GitLab: https://gitlab.com/dwt1/dotfiles/-/blob/master/.zshrc
+      - zsh/.zshrc at master · ChrisTitusTech/zsh · GitHub: https://github.com/ChrisTitusTech/zsh/blob/master/.zshrc
+      - Zsh - ArchWiki: https://wiki.archlinux.org/index.php/Zsh
