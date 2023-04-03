@@ -4,7 +4,7 @@
 
 Convert your **plain bookmark** files into a **static web app**.
 
-![YAML to App diagram](assets/img/workflow.svg)
+![YAML to App diagram](img/workflow.svg)
 
 </div>
 
@@ -19,7 +19,7 @@ Convert your **plain bookmark** files into a **static web app**.
 
 <div align="center" class="text-center">
 
-![Static Marks Screencast](assets/img/screencast.gif)
+![Static Marks Screencast](img/screencast.gif)
 
 </div>
 
