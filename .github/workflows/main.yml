@@ -23,7 +23,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install static-marks
-          mkdir build
+          mkdir public
           ./node_modules/.bin/static-marks build bookmarks/*.yml > public/index.html 
 
       - name: Deploy 🚀
