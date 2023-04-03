@@ -5,6 +5,8 @@ on:
 
 jobs:
   build-and-deploy:
+    permissions:
+        contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -28,8 +30,6 @@ jobs:
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
-        permissions:
-            contents: write
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
