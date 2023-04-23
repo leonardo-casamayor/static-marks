@@ -28,17 +28,14 @@ iOS Dev:
 iOS Stuff:
   - Theory:
       - Swift - Advanced: >-
-          
 https://docs.google.com/presentation/d/1k9yYUQ7OowR9V45Y8zZG7j21nRAmgAfk8vvhN6qHhSY/edit#slide=id.p5
       - POP in practice - Google Slides: >-
-          
 https://docs.google.com/presentation/d/1j1khbKxvxkbgn0Tdma4Hy8D6iAYEeZniN2us0kRS8Ig/edit#slide=id.p1
       - Code Smells: https://sourcemaking.com/refactoring/smells
       - Design Patterns Theory: https://sourcemaking.com/design_patterns
       - Design Patterns Summary: 
 https://drive.google.com/file/d/1MvJtcld_4n0OukZFwM-02ifpR31fHzMn/view
       - Book - The Art of Unit Testing: >-
-          
 https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
       - View Lifecycle in iOS: https://candost.blog/view-lifecycle-in-ios/
       - The Life Cycle of a View | Medium: 
@@ -77,13 +74,11 @@ https://learnappmaking.com/notification-center-how-to-swift/
       - iOS Unit and UI Testing Tutorial: >-
           https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
       - TDD Tutorial for iOS: >-
-          
 https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
       - Test-Driven Development Tutorial for iOS: 
 https://instabug.com/blog/test-driven-development-tutorial/
       - How to TDD in MVC: https://qualitycoding.org/mvc-tdd/
       - Unit Testing View Controllers and Views: >-
-          
 https://www.vadimbulavin.com/unit-testing-view-controller-uiviewcontroller-and-uiview-in-swift/
   - Architecture:
       - Dependency Injection in Swift: https://cocoacasts.com/dependency-injection-in-swift
@@ -94,12 +89,10 @@ https://www.vadimbulavin.com/dependency-injection-in-swift/
       - iOS-mvp-sample: https://github.com/iyadagha/iOS-mvp-sample
       - MVP in iOS with swift: http://iyadagha.com/using-mvp-ios-swift/
       - iOS App Architecture: >-
-          
 https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0/chapters/2-which-architecture-is-right-for-me
       - Clean architecture and MVVM.: 
 https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
       - Model-View-Controller (MVC) in iOS – A Modern Approach | raywenderlich.com: >-
-          
 https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
       - What you should know about iOS architecture: 
 https://brightdigit.com/articles/ios-software-architecture/
