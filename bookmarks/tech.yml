@@ -26,25 +26,17 @@ Tech:
     - Nitter:
         - Nitter Active: https://nitter.fly.dev/
         - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
-    - Git:
+    - Git Resourses:
         - Resources to learn Git: https://try.github.io/
+        - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+        - Git Exercises: https://learngitbranching.js.org/
+        - Git - Book: https://git-scm.com/book/en/v2
+        - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
+    - Git tutorials:
+        - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
+        - Using Multiple SSH keys: >-
+            https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
         - Git Pull Force – How to Overwrite Local Changes With Git: >-
             https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
-        - GitLab and SSH keys | GitLab: >-
-            https://docs.gitlab.com/ee/ssh/README.html#common-steps-for-generating-an-ssh-key-pair
-        - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
-        - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
-        - Git - About Version Control: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
-        - Git - Book: https://git-scm.com/book/en/v2
-        - Resources to learn Git: https://try.github.io/
-        - Hello World · GitHub Guides: https://guides.github.com/activities/hello-world/
-        - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
-        - Git - Most useful commands: >-
-            https://docs.google.com/document/d/16vwPVqQX6B0qsHbPhV0PoD6vKSD5ym4Cb56VxEZ1JZk/edit
-        - Git Exercises: https://learngitbranching.js.org/
-        - How to use Github with Xcode: https://medium.com/swlh/how-to-use-github-with-xcode11-8a93b64ff1bc
         - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
         - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
-        - Pull requests · david-lizarazo/Training2021-G2: https://github.globant.com/david-lizarazo/Training2021-G2/pulls
-        - 'Beginner Friendly: Using Multiple SSH keys': >-
-            https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
