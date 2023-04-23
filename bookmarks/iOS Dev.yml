@@ -1,6 +1,9 @@
 iOS Dev:
+    - General:
+        - XCode Tips: https://xcode.tips/
     - Architecture:
         - The Composable Architecture: https://www.kodeco.com/24550178-getting-started-with-the-composable-architecture
-
     - Courses:
         - objc swift talk: https://talk.objc.io/
+    - Networking:
+          - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/

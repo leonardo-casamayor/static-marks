@@ -5,3 +5,18 @@ Tech:
         - How to set up your own digital garden: https://nesslabs.com/digital-garden-set-up
         - You and your mind garden: https://nesslabs.com/mind-garden
         - Obsidian Jekyll workflow: https://refinedmind.co/obsidian-jekyll-workflow
+    - Borg:
+          - Emborg — Front-End to Borg Backup: https://emborg.readthedocs.io/en/latest/
+          - borgmatic: https://github.com/borgmatic-collective/borgmatic
+          - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
+          - BorgWarehouse - BorgBackup Web UI for your central repository server: https://borgwarehouse.com/
+          - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
+    - Hammerspoon:
+          - Learn Lua in Y Minutes: https://learnxinyminutes.com/docs/lua/
+          - Getting Started: https://www.hammerspoon.org/go/#smartreload
+    - nnn:
+          - 'jarun/nnn: n³ The unorthodox terminal file manager': https://github.com/jarun/nnn#features
+          - Usage · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Usage
+          - Concepts · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/concepts
+          - Advanced use cases · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Advanced-use-cases
+          - Basic use cases · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Basic-use-cases#detached-text

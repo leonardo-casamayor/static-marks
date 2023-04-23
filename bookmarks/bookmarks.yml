@@ -85,20 +85,12 @@ iOS Stuff:
       - SwiftUI Tutorials - Sean Allen: >-
           https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
       - Move to next text field with Swift: https://programmingwithswift.com/move-to-next-text-field-with-swift/
-  - Designables:
-      - 'iOS Dev Course: How to create custom @IBDesignable UIView | by Maxim Vialyx | Medium': >-
-          https://medium.com/@vialyx/import-uikit-custom-ibdesignable-uiview-cd26cf7e606c
-      - IBInspectable / IBDesignable - NSHipster: https://nshipster.com/ibinspectable-ibdesignable/
-      - What’s IBDesignable / IBInspectable? | by Geraldo Bastos | Medium: >-
-          https://medium.com/@GeraldoBastos/whats-ibdesignable-ibinspectable-292829384e1
   - CollectionView:
       - CollectionView Compositional Layout: https://www.youtube.com/watch?v=vAhas_my5mo
       - Getting Started with CompositionalLayout: >-
           https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
       - Modern Collection Views with Compositional Layouts | raywenderlich: >-
           https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
-  - Networking:
-      - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
   - Screenings:
       - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
       - Building Adaptive Layout with Size Classes — Programmatically | by Batikan Sosun | Archived — Flawless iOS | Medium: >-
@@ -114,12 +106,6 @@ Orion:
   - Nitter:
       - nitter.fly.dev: https://nitter.fly.dev/
       - Instances · zedeus/nitter Wiki: https://github.com/zedeus/nitter/wiki/Instances
-  - borg:
-      - Emborg — Front-End to Borg Backup — emborg 1.34 documentation: https://emborg.readthedocs.io/en/latest/
-      - 'borgmatic-collective/borgmatic: Simple, configuration-driven backup software for servers and workstations': https://github.com/borgmatic-collective/borgmatic
-      - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
-      - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
-      - BorgWarehouse - BorgBackup Web UI for your central repository server.: https://borgwarehouse.com/
   - DFV:
       - https://taldavidson.com/deep-value-screeners/deep-value-what-is-it/: https://dynalist.io/d/JkQw0ABmj5OIIrpuOfUW-RHm
       - Short Squeeze - Overview, How It Works, and How to Spot It: >-
@@ -138,9 +124,6 @@ Orion:
       - Shell | Hugo Themes: https://themes.gohugo.io/themes/hugo-theme-shell/
       - Hugo Profile | Hugo Themes: https://themes.gohugo.io/themes/hugo-profile/
       - terminal | Hugo Themes: https://themes.gohugo.io/themes/hugo-theme-terminal/
-  - markdown cv:
-      - 'elipapa/markdown-cv: a simple template to write your CV in a readable markdown file and use CSS to publish/print it.': https://github.com/elipapa/markdown-cv
-      - Markdown-cv, style your markdown resume: https://elipapa.github.io/markdown-cv/
   - guitar:
       - Blackbird Guitar Lesson 🎸 The Beatles Tutorial |Fingerpicking + TAB| - YouTube: https://www.youtube.com/watch?v=7eT9yho03Ho
       - Across The Universe Guitar Tutorial The Beatles Guitar Lesson |Chords & Strumming| - YouTube: https://www.youtube.com/watch?v=aJicFE15j2c
@@ -151,34 +134,13 @@ Orion:
   - Hammerspoon:
       - Learn Lua in Y Minutes: https://learnxinyminutes.com/docs/lua/
       - Getting Started: https://www.hammerspoon.org/go/#smartreload
-  - Git Submodules:
-      - Git submodule | Atlassian: https://www.atlassian.com/git/tutorials/git-submodule
-      - Working with submodules | The GitHub Blog: https://github.blog/2016-02-01-working-with-submodules/
-      - GitHub Skills: https://skills.github.com/
-      - GitHub flow - GitHub Docs: https://docs.github.com/en/get-started/quickstart/github-flow
-  - WG:
-      - networking - Connect 2 sites (networks) with Wireguard - Unix & Linux Stack Exchange: >-
-          https://unix.stackexchange.com/questions/639179/connect-2-sites-networks-with-wireguard
-      - 'Trying to bridge two networks with WireGuard (moving from OpenVPN) : WireGuard': >-
-          https://www.reddit.com/r/WireGuard/comments/fm07wj/trying_to_bridge_two_networks_with_wireguard/
-      - '[OpenWrt Wiki] WireGuard server': https://openwrt.org/docs/guide-user/services/vpn/wireguard/server
-      - OpenWRT - Configure Wireguard Server - YouTube: https://www.youtube.com/watch?v=BKdPWOXD75I
-      - How To Set Up A VPN On A Router // Wireguard on OpenWrt - YouTube: https://www.youtube.com/watch?v=04q41GEPvKA&t=317s
   - nnn:
       - 'jarun/nnn: n³ The unorthodox terminal file manager': https://github.com/jarun/nnn#features
       - Usage · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Usage
       - Concepts · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/concepts
       - Advanced use cases · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Advanced-use-cases
       - Basic use cases · jarun/nnn Wiki: https://github.com/jarun/nnn/wiki/Basic-use-cases#detached-text
-  - Bookmarks Bar:
-      - 'JohnSundell/Publish: A static site generator for Swift developers': https://github.com/JohnSundell/Publish
-      - Exporting podcasts from iOS app as OPML - Ask Different: >-
-          https://apple.stackexchange.com/questions/374696/exporting-podcasts-from-ios-app-as-opml
 Old Bookmarks:
-  - Arch:
-      - LukeSmithxyz/LARBS: https://github.com/LukeSmithxyz/LARBS
-      - Archiso - ArchWiki: https://wiki.archlinux.org/index.php/archiso
-      - archlinux/archinstall: https://github.com/archlinux/archinstall
   - Argh!:
       - Rutracker: >-
           https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Frutracker.org%2Fforum%2Flogin.php
