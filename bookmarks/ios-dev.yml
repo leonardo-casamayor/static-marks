@@ -1,9 +1,23 @@
 iOS Dev:
     - General:
         - XCode Tips: https://xcode.tips/
+        - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
     - Architecture:
         - The Composable Architecture: https://www.kodeco.com/24550178-getting-started-with-the-composable-architecture
-    - Courses:
-        - objc swift talk: https://talk.objc.io/
+    - UIKit:
+        - Building Adaptive Layout with Size Classes: https://batikansosun.medium.com/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
+    - SwiftUI:
+          - SwiftUI Stanford: https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
+          - 100 Days of SwiftUI: https://www.hackingwithswift.com/100/swiftui
+          - SwiftUI Tutorials | Apple: https://developer.apple.com/tutorials/swiftui
+          - SwiftUI Tutorials - Sean Allen: https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+    - CollectionView:
+          - Getting Started with CompositionalLayout: >-
+              https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
+          - Modern Collection Views with Compositional Layouts | raywenderlich: >-
+              https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
+                                          
     - Networking:
           - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
+    - Courses:
+        - objc swift talk: https://talk.objc.io/
