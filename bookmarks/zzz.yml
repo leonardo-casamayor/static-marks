@@ -1,76 +1,4 @@
-iOS Stuff:
-  - Theory:
-      - Swift - Advanced: >-
-          https://docs.google.com/presentation/d/1k9yYUQ7OowR9V45Y8zZG7j21nRAmgAfk8vvhN6qHhSY/edit#slide=id.p5
-      - POP in practice - Google Slides: >-
-          https://docs.google.com/presentation/d/1j1khbKxvxkbgn0Tdma4Hy8D6iAYEeZniN2us0kRS8Ig/edit#slide=id.p1
-      - Code Smells: https://sourcemaking.com/refactoring/smells
-      - Design Patterns Theory: https://sourcemaking.com/design_patterns
-      - Design Patterns Summary: https://drive.google.com/file/d/1MvJtcld_4n0OukZFwM-02ifpR31fHzMn/view
-      - Book - The Art of Unit Testing: >-
-          https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
-      - View Lifecycle in iOS: https://candost.blog/view-lifecycle-in-ios/
-      - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
-      - URLSession | Apple Developer Documentation: https://developer.apple.com/documentation/foundation/urlsession
-      - Meet - DMED Training - Nasa G2: https://meet.google.com/edm-ekeo-bdi
-  - Courses:
-      - Globant University: https://university.globant.com/
-      - iOS form Scratch: https://university.globant.com/group/1049
-      - Code Reviews: https://globant.acamica.com/cursos/291/
-      - Código de Calidad y Refactoring: https://globant.acamica.com/cursos/215/codigo-de-calidad-y-refactoring
-      - SOLID: https://globant.acamica.com/cursos/234/solid
-      - Apps en iOS: >-
-          https://www.youtube.com/playlist?list=PLS4-ShDA9mk9SjP_CU0Jd-zWnTlVsaAd4
-      - Leadership Onboarding: https://university.globant.com/group/29
-      - UIKit Course: https://www.udacity.com/course/uikit-fundamentals--ud788
-      - Git Course: https://globant.acamica.com/cursos/29/git
-      - The Basics of Conflict Resolution: https://globant.acamica.com/cursos/320/
-      - The Basics of Negotiation: https://globant.acamica.com/cursos/324/
-      - Risk Management: https://globant.acamica.com/cursos/627/
-  - Git:
-      - Hello World · GitHub Guides: https://guides.github.com/activities/hello-world/
-      - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
-      - Git - Most useful commands: >-
-          https://docs.google.com/document/d/16vwPVqQX6B0qsHbPhV0PoD6vKSD5ym4Cb56VxEZ1JZk/edit
-      - Git Exercises: https://learngitbranching.js.org/
-      - How to use Github with Xcode: https://medium.com/swlh/how-to-use-github-with-xcode11-8a93b64ff1bc
-      - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
-      - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
-      - Pull requests · david-lizarazo/Training2021-G2: https://github.globant.com/david-lizarazo/Training2021-G2/pulls
-      - 'Beginner Friendly: Using Multiple SSH keys': >-
-          https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
-  - Swift/iOS:
-      - Learn Swift Programming: https://www.programiz.com/swift-programming
-      - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
-      - Swift - Videos - Apple Developer: https://developer.apple.com/videos/developer-tools/swift/
-      - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
-      - Pass Data Between View Controllers – LearnAppMaking: >-
-          https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
-      - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
-  - Testing:
-      - Swift TDD. How Many Unit Tests to Write?: >-
-          https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/
-      - iOS Unit and UI Testing Tutorial: >-
-          https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
-      - TDD Tutorial for iOS: >-
-          https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
-      - Test-Driven Development Tutorial for iOS: https://instabug.com/blog/test-driven-development-tutorial/
-      - How to TDD in MVC: https://qualitycoding.org/mvc-tdd/
-      - Unit Testing View Controllers and Views: >-
-          https://www.vadimbulavin.com/unit-testing-view-controller-uiviewcontroller-and-uiview-in-swift/
-  - Architecture:
-      - Dependency Injection in Swift: https://cocoacasts.com/dependency-injection-in-swift
-      - Advanced Dependency Injection on iOS: https://www.vadimbulavin.com/dependency-injection-in-swift/
-      - Clean architecture for iOS: >-
-          https://saad-eloulladi.medium.com/clean-architecture-for-ios-viper-vip-c19de40b71e2
-      - iOS-mvp-sample: https://github.com/iyadagha/iOS-mvp-sample
-      - MVP in iOS with swift: http://iyadagha.com/using-mvp-ios-swift/
-      - iOS App Architecture: >-
-          https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0/chapters/2-which-architecture-is-right-for-me
-      - Clean architecture and MVVM.: https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
-      - Model-View-Controller (MVC) in iOS – A Modern Approach | raywenderlich.com: >-
-          https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
-      - What you should know about iOS architecture: https://brightdigit.com/articles/ios-software-architecture/
+
 Old Bookmarks:
   - Argh!:
       - Rutracker: >-
@@ -98,9 +26,6 @@ Old Bookmarks:
       - Gutenberg - Free ebooks: https://www.gutenberg.org/
       - Book Depository: https://www.bookdepository.com/
       - UCA - Biblioteca Digital: http://bibliotecadigital.uca.edu.ar/greenstone/cgi-bin/library.cgi
-  - bspwm:
-      - JopStro/bspswallow: https://github.com/JopStro/bspswallow/tree/master/alternative
-      - cmschuetz/btops: https://github.com/cmschuetz/btops#dynamic-with-classified-renamers
   - Computer Science:
       - Panopticlick: https://panopticlick.eff.org/
       - folding at home - Google Search: >-
@@ -119,106 +44,6 @@ Old Bookmarks:
       - MIT OpenCourseWare: http://ocw.mit.edu/index.htm
       - Open Yale Courses: http://oyc.yale.edu/courses
       - Coursera: https://www.coursera.org/courses
-  - Docker:
-      - 'GitHub - nextcloud/docker: ⛴ Docker image of Nextcloud': https://github.com/nextcloud/docker
-      - docker/.examples/docker-compose/with-nginx-proxy/mariadb/fpm at master · nextcloud/docker · GitHub: >-
-          https://github.com/nextcloud/docker/tree/master/.examples/docker-compose/with-nginx-proxy/mariadb/fpm
-      - Running an NGINX reverse proxy with Docker and Let's Encrypt on Compute Engine: >-
-          https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker
-  - Fokin Job M8:
-      - Apply to Top US Software Developer Jobs: https://turing.com/jobs
-      - SuccessFactors: https://career8.successfactors.com/
-      - Empleos - Bolsa de trabajo | Bumeran: https://www.bumeran.com.ar/
-      - Ingenieria: http://empleos.liruca.com.ar/Ingenieria
-      - Free software jobs — Free Software Foundation — working together for free software: https://www.fsf.org/resources/jobs
-      - Glassdoor | Encuentra el empleo perfecto para ti: https://www.glassdoor.com.ar/index.htm?countryRedirect=true
-      - LinkedIn: https://www.linkedin.com/feed/
-      - Job Openings. Find Job Opportunities & Local Listings | Jobs.com: http://www.jobs.com/
-  - FOSS:
-      - TMSU: https://tmsu.org/
-      - 'Tagsistant: semantic filesystem for Linux - Tagsistant': https://www.tagsistant.net/
-      - cedricfrancoys/tagger: https://github.com/cedricfrancoys/tagger#install
-      - Interactive dotfiles management with dotbare: >-
-          https://www.distrotube.com/blog/interactive-dotfiles-management-with-dotbare/
-      - Rcm guide: https://www.distrotube.com/blog/rcm-guide/
-      - stuntbanana/stuntbanana: https://github.com/stuntbanana/stuntbanana
-      - karlstav/cava: https://github.com/karlstav/cava
-      - MatMoul/archfi: https://github.com/MatMoul/archfi
-      - Derek Taylor / Shell Color Scripts: https://gitlab.com/dwt1/shell-color-scripts
-      - dylanaraps/pfetch: https://github.com/dylanaraps/pfetch
-      - corna/me_cleaner: https://github.com/corna/me_cleaner/wiki/Get-the-status-of-Intel-ME
-      - SathyaBhat/spotify-dl: https://github.com/SathyaBhat/spotify-dl
-      - ritiek/spotify-downloader: https://github.com/ritiek/spotify-downloader
-      - Rigellute/spotify-tui: https://github.com/Rigellute/spotify-tui
-      - dpayne/cli-visualizer: https://github.com/dpayne/cli-visualizer#usage
-      - vimwiki/vimwiki: https://github.com/vimwiki/vimwiki
-      - 'Pass: The Standard Unix Password Manager': https://www.passwordstore.org/
-      - sagarkarira/coronavirus-tracker-cli: https://github.com/sagarkarira/coronavirus-tracker-cli
-      - ExpDev07/coronavirus-tracker-api: https://github.com/ExpDev07/coronavirus-tracker-api
-      - NovelCOVID/API: https://github.com/NovelCOVID/API/
-      - Installing packages using pip and virtual environments — Python Packaging User Guide: >-
-          https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
-      - gilesknap/gphotos-sync: https://github.com/gilesknap/gphotos-sync
-      - How To Backup Google Photos To Your Computer With gphotos-sync: >-
-          https://www.linuxuprising.com/2019/06/how-to-backup-google-photos-to-your.html
-      - jbszczepaniak/spotify-cli: https://github.com/jbszczepaniak/spotify-cli
-      - spotify-dl: https://pypi.org/project/spotify-dl/
-      - 'GitHub - mczachurski/wallpapper: Console application for creating dynamic wallpapers for macOS Mojave': https://github.com/mczachurski/wallpapper
-      - Wallpapers: https://unsplash.com/t/wallpapers
-      - Dynamic Wallpaper Club: https://dynamicwallpaper.club/
-      - 'Moving to zsh, part 2: Configuration Files': >-
-          https://scriptingosx.com/2019/06/moving-to-zsh-part-2-configuration-files/
-      - karabiner.json Reference Manual: https://karabiner-elements.pqrs.org/docs/json/
-      - laurent22/rsync-time-backup: https://github.com/laurent22/rsync-time-backup
-      - rsyncOSX/RsyncOSX: https://github.com/rsyncOSX/RsyncOSX
-  - FOSS Resources:
-      - List of applications - ArchWiki: >-
-          https://wiki.archlinux.org/index.php/List_of_applications#Collection_managers
-      - Gentoo Wiki Ricing: https://wiki.installgentoo.com/index.php/GNU/Linux_ricing
-      - Gentoo Wiki Recommendations: >-
-          https://wiki.installgentoo.com/index.php/List_of_recommended_GNU/Linux_software
-      - Luke Programs: https://lukesmith.xyz/programs
-      - cat -v: http://harmful.cat-v.org/software/
-      - mayfrost/guides: https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
-      - Suckless: https://suckless.org/rocks/
-  - Francés:
-      - Campus France Argentine: http://www.argentine.campusfrance.org/es
-      - Dictionnaires Larousse français: http://www.larousse.fr/dictionnaires/francais
-      - TV5MONDE - A2 élémentaire: http://apprendre.tv5monde.com/fr/niveaux/a2-elementaire
-      - Didier Latitudes: http://www.didierlatitudes.com/
-      - Le Conjugueur: http://leconjugueur.lefigaro.fr/
-  - Git:
-      - Resources to learn Git: https://try.github.io/
-      - Git Pull Force – How to Overwrite Local Changes With Git: >-
-          https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
-      - GitLab and SSH keys | GitLab: >-
-          https://docs.gitlab.com/ee/ssh/README.html#common-steps-for-generating-an-ssh-key-pair
-      - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
-      - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
-      - Git - About Version Control: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
-      - Git - Book: https://git-scm.com/book/en/v2
-      - Resources to learn Git: https://try.github.io/
-  - Google:
-      - My Activity: https://myactivity.google.com/myactivity
-      - Google Translate: https://translate.google.com.ar/?hl=en-GB&tab=cT
-      - Google Photos: https://photos.google.com/
-      - Google Contacts: https://contacts.google.com/u/0/preview/all
-      - Google Calendar: https://www.google.com/calendar/render?tab=mc#main_7
-      - Drive: https://drive.google.com/drive/my-drive
-      - Gmail: https://mail.google.com/mail/u/0?tab=wm#inbox
-  - Hugo:
-      - 'Netlify: Develop & deploy the best web experiences in record time': https://www.netlify.com/
-      - Hugo Terrassa Theme: https://themes.gohugo.io/hugo-terrassa-theme/
-      - Quick Start: https://gohugo.io/getting-started/quick-start/
-      - theNewDynamic/gohugo-theme-ananke: https://github.com/theNewDynamic/gohugo-theme-ananke
-  - Linux:
-      - The FreeBSD Project: https://www.freebsd.org/
-      - Solus: https://getsol.us/home
-      - Manjaro: https://manjaro.org/
-      - Fedora: https://getfedora.org/
-      - Tails: https://tails.boum.org/
-      - Kali Linux: https://www.kali.org/
-      - DistroWatch: https://distrowatch.com/
   - Mail:
       - Mailnesia: https://mailnesia.com/
       - Email green, secure, simple and ad-free - posteo.de: https://posteo.de/en
@@ -326,28 +151,79 @@ Old Bookmarks:
       - Solarized: https://ethanschoonover.com/solarized/
       - 'GitHub - morhetz/gruvbox: Retro groove color scheme for Vim': https://github.com/morhetz/gruvbox
       - Dracula — Dark theme for 129+ apps: https://draculatheme.com/
-  - Tesis:
-      - AppArmor security profiles for Docker: https://docs.docker.com/engine/security/apparmor/
-      - A Linux sysadmin's introduction to cgroups: https://www.redhat.com/sysadmin/cgroups-part-one
-      - Mandatory access control - Wikipedia: https://en.wikipedia.org/wiki/Mandatory_access_control
-      - seccomp - Wikipedia: https://en.wikipedia.org/wiki/Seccomp
-      - Improving Linux container security with seccomp: https://www.redhat.com/sysadmin/container-security-seccomp
-      - What is a Container? | Docker: https://www.docker.com/resources/what-container
-      - A Beginner-Friendly Introduction to Containers, VMs and Docker: >-
-          https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/
-      - Microservices vs. Monolith – A Paradigm Shift in Software Development: >-
-          https://easy-software.com/en/newsroom/microservices-vs-monolith-a-paradigm-shift-in-software-development/
-      - Containerization using Docker - GeeksforGeeks: https://www.geeksforgeeks.org/containerization-using-docker/
-      - What is Application Containerization?: >-
-          https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization
-      - Best practices for operating containers | Architectures: >-
-          https://cloud.google.com/solutions/best-practices-for-operating-containers
-      - Plagiarism Checker Free | Accurate with Percentage: https://plagiarismdetector.net/
-  - Vim:
-      - Vim Tips Wiki | Fandom: https://vim.fandom.com/wiki/Vim_Tips_Wiki
-      - dhruvasagar/vim-dotoo: https://github.com/dhruvasagar/vim-dotoo
-  - zsh:
-      - zshrc: https://gist.github.com/LukeSmithxyz/e62f26e55ea8b0ed41a65912fbebbe52
-      - .zshrc · master · Derek Taylor / Dotfiles · GitLab: https://gitlab.com/dwt1/dotfiles/-/blob/master/.zshrc
-      - zsh/.zshrc at master · ChrisTitusTech/zsh · GitHub: https://github.com/ChrisTitusTech/zsh/blob/master/.zshrc
-      - Zsh - ArchWiki: https://wiki.archlinux.org/index.php/Zsh
+FOSS:
+  - FOSS:
+      - TMSU: https://tmsu.org/
+      - 'Tagsistant: semantic filesystem for Linux - Tagsistant': https://www.tagsistant.net/
+      - cedricfrancoys/tagger: https://github.com/cedricfrancoys/tagger#install
+      - Interactive dotfiles management with dotbare: >-
+          https://www.distrotube.com/blog/interactive-dotfiles-management-with-dotbare/
+      - Rcm guide: https://www.distrotube.com/blog/rcm-guide/
+      - stuntbanana/stuntbanana: https://github.com/stuntbanana/stuntbanana
+      - karlstav/cava: https://github.com/karlstav/cava
+      - MatMoul/archfi: https://github.com/MatMoul/archfi
+      - Derek Taylor / Shell Color Scripts: https://gitlab.com/dwt1/shell-color-scripts
+      - dylanaraps/pfetch: https://github.com/dylanaraps/pfetch
+      - corna/me_cleaner: https://github.com/corna/me_cleaner/wiki/Get-the-status-of-Intel-ME
+      - SathyaBhat/spotify-dl: https://github.com/SathyaBhat/spotify-dl
+      - ritiek/spotify-downloader: https://github.com/ritiek/spotify-downloader
+      - Rigellute/spotify-tui: https://github.com/Rigellute/spotify-tui
+      - dpayne/cli-visualizer: https://github.com/dpayne/cli-visualizer#usage
+      - vimwiki/vimwiki: https://github.com/vimwiki/vimwiki
+      - 'Pass: The Standard Unix Password Manager': https://www.passwordstore.org/
+      - sagarkarira/coronavirus-tracker-cli: https://github.com/sagarkarira/coronavirus-tracker-cli
+      - ExpDev07/coronavirus-tracker-api: https://github.com/ExpDev07/coronavirus-tracker-api
+      - NovelCOVID/API: https://github.com/NovelCOVID/API/
+      - Installing packages using pip and virtual environments — Python Packaging User Guide: >-
+          https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+      - gilesknap/gphotos-sync: https://github.com/gilesknap/gphotos-sync
+      - How To Backup Google Photos To Your Computer With gphotos-sync: >-
+          https://www.linuxuprising.com/2019/06/how-to-backup-google-photos-to-your.html
+      - jbszczepaniak/spotify-cli: https://github.com/jbszczepaniak/spotify-cli
+      - spotify-dl: https://pypi.org/project/spotify-dl/
+      - 'GitHub - mczachurski/wallpapper: Console application for creating dynamic wallpapers for macOS Mojave': https://github.com/mczachurski/wallpapper
+      - Wallpapers: https://unsplash.com/t/wallpapers
+      - Dynamic Wallpaper Club: https://dynamicwallpaper.club/
+      - 'Moving to zsh, part 2: Configuration Files': >-
+          https://scriptingosx.com/2019/06/moving-to-zsh-part-2-configuration-files/
+      - karabiner.json Reference Manual: https://karabiner-elements.pqrs.org/docs/json/
+      - laurent22/rsync-time-backup: https://github.com/laurent22/rsync-time-backup
+      - rsyncOSX/RsyncOSX: https://github.com/rsyncOSX/RsyncOSX
+  - FOSS Resources:
+      - List of applications - ArchWiki: >-
+          https://wiki.archlinux.org/index.php/List_of_applications#Collection_managers
+      - Gentoo Wiki Ricing: https://wiki.installgentoo.com/index.php/GNU/Linux_ricing
+      - Gentoo Wiki Recommendations: >-
+          https://wiki.installgentoo.com/index.php/List_of_recommended_GNU/Linux_software
+      - Luke Programs: https://lukesmith.xyz/programs
+      - cat -v: http://harmful.cat-v.org/software/
+      - mayfrost/guides: https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
+      - Suckless: https://suckless.org/rocks/
+Git:
+  - Git:
+      - Resources to learn Git: https://try.github.io/
+      - Git Pull Force – How to Overwrite Local Changes With Git: >-
+          https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
+      - GitLab and SSH keys | GitLab: >-
+          https://docs.gitlab.com/ee/ssh/README.html#common-steps-for-generating-an-ssh-key-pair
+      - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
+      - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
+      - Git - About Version Control: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+      - Git - Book: https://git-scm.com/book/en/v2
+      - Resources to learn Git: https://try.github.io/
+  - Git:
+      - Hello World · GitHub Guides: https://guides.github.com/activities/hello-world/
+      - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+      - Git - Most useful commands: >-
+          https://docs.google.com/document/d/16vwPVqQX6B0qsHbPhV0PoD6vKSD5ym4Cb56VxEZ1JZk/edit
+      - Git Exercises: https://learngitbranching.js.org/
+      - How to use Github with Xcode: 
+https://medium.com/swlh/how-to-use-github-with-xcode11-8a93b64ff1bc
+      - Squash commits into one with Git - Internal Pointers: 
+https://www.internalpointers.com/post/squash-commits-into-one-git
+      - How to Squash Commits in Git | Learn Version Control with Git: 
+https://www.git-tower.com/learn/git/faq/git-squash/
+      - Pull requests · david-lizarazo/Training2021-G2: 
+https://github.globant.com/david-lizarazo/Training2021-G2/pulls
+      - 'Beginner Friendly: Using Multiple SSH keys': >-
+          https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
