@@ -23,6 +23,6 @@ Tech:
     - Hugo Themes:
         - Shell: https://themes.gohugo.io/themes/hugo-theme-shell/
         - Terminal: https://themes.gohugo.io/themes/hugo-theme-terminal/
-     - Nitter:
-         - Nitter Active: https://nitter.fly.dev/
-         - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
+    - Nitter:
+        - Nitter Active: https://nitter.fly.dev/
+        - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
