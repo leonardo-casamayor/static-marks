@@ -40,18 +40,12 @@ iOS Stuff:
       - 'Beginner Friendly: Using Multiple SSH keys': >-
           https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
   - Swift/iOS:
-      - Swift.org: https://swift.org/
       - Learn Swift Programming: https://www.programiz.com/swift-programming
-      - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
-      - Color Palettes: https://colorhunt.co/
       - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
       - Swift - Videos - Apple Developer: https://developer.apple.com/videos/developer-tools/swift/
-      - Github SwiftLint: https://github.com/realm/SwiftLint
-      - quicktype: https://github.com/quicktype/quicktype
       - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
       - Pass Data Between View Controllers – LearnAppMaking: >-
           https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
-      - Generics in Swift Explained (How To) – LearnAppMaking: https://learnappmaking.com/generics-swift-how-to/
       - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
   - Testing:
       - Swift TDD. How Many Unit Tests to Write?: >-

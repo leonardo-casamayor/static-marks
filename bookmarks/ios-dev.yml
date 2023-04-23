@@ -2,6 +2,8 @@ iOS Dev:
     - General:
         - XCode Tips: https://xcode.tips/
         - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
+        - SwiftLint: https://github.com/realm/SwiftLint
+        - Quicktype: https://github.com/quicktype/quicktype
     - Architecture:
         - The Composable Architecture: https://www.kodeco.com/24550178-getting-started-with-the-composable-architecture
     - UIKit:
@@ -16,8 +18,10 @@ iOS Dev:
               https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
           - Modern Collection Views with Compositional Layouts | raywenderlich: >-
               https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
-                                          
     - Networking:
           - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
+    - UI:
+        - Color Palettes: https://colorhunt.co/
+        - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
     - Courses:
         - objc swift talk: https://talk.objc.io/
