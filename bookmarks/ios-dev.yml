@@ -38,25 +38,25 @@ iOS Dev:
     - Courses:
         - objc swift talk: https://talk.objc.io/
 iOS Old:
-  - Theory:
-      - Code Smells: https://sourcemaking.com/refactoring/smells
-      - Design Patterns Theory: https://sourcemaking.com/design_patterns
-      - Book - The Art of Unit Testing: https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
-      - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
-  - Swift/iOS:
-      - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
-      - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
-      - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
-      - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
-  - Courses:
-      - iOS form Scratch: https://university.globant.com/group/1049
-      - Code Reviews: https://globant.acamica.com/cursos/291/
-      - Código de Calidad y Refactoring: https://globant.acamica.com/cursos/215/codigo-de-calidad-y-refactoring
-      - SOLID: https://globant.acamica.com/cursos/234/solid
-      - Apps en iOS: https://www.youtube.com/playlist?list=PLS4-ShDA9mk9SjP_CU0Jd-zWnTlVsaAd4
-      - Leadership Onboarding: https://university.globant.com/group/29
-      - UIKit Course: https://www.udacity.com/course/uikit-fundamentals--ud788
-      - Git Course: https://globant.acamica.com/cursos/29/git
-      - The Basics of Conflict Resolution: https://globant.acamica.com/cursos/320/
-      - The Basics of Negotiation: https://globant.acamica.com/cursos/324/
-      - Risk Management: https://globant.acamica.com/cursos/627/
+    - Theory:
+        - Code Smells: https://sourcemaking.com/refactoring/smells
+        - Design Patterns Theory: https://sourcemaking.com/design_patterns
+        - Book - The Art of Unit Testing: https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
+        - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
+    - Swift/iOS:
+        - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
+        - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
+        - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
+        - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
+    - Courses:
+        - iOS form Scratch: https://university.globant.com/group/1049
+        - Code Reviews: https://globant.acamica.com/cursos/291/
+        - Código de Calidad y Refactoring: https://globant.acamica.com/cursos/215/codigo-de-calidad-y-refactoring
+        - SOLID: https://globant.acamica.com/cursos/234/solid
+        - Apps en iOS: https://www.youtube.com/playlist?list=PLS4-ShDA9mk9SjP_CU0Jd-zWnTlVsaAd4
+        - Leadership Onboarding: https://university.globant.com/group/29
+        - UIKit Course: https://www.udacity.com/course/uikit-fundamentals--ud788
+        - Git Course: https://globant.acamica.com/cursos/29/git
+        - The Basics of Conflict Resolution: https://globant.acamica.com/cursos/320/
+        - The Basics of Negotiation: https://globant.acamica.com/cursos/324/
+        - Risk Management: https://globant.acamica.com/cursos/627/
