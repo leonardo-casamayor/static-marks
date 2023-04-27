@@ -11,10 +11,8 @@ iOS Dev:
         Initailization in depth: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
     - UIKit:
         - Building Adaptive Layout with Size Classes: https://batikansosun.medium.com/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
-        - CompositionalLayout for collection views: >-
-            https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
-        - Modern Collection Views with Compositional Layouts: >-
-            https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
+        - CompositionalLayout for collection views: https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
+        - Modern Collection Views with Compositional Layouts: https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts
     - SwiftUI:
         - SwiftUI Stanford: https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
         - 100 Days of SwiftUI: https://www.hackingwithswift.com/100/swiftui
