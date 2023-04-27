@@ -4,11 +4,17 @@ iOS Dev:
         - SwiftLint: https://github.com/realm/SwiftLint
         - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
         - Roadmap: https://github.com/gahntpo/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md
+    - Theory:
+        - Code Smells: https://sourcemaking.com/refactoring/smells
+        - Design Patterns Theory: https://sourcemaking.com/design_patterns
+        - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
     - UI:
         - Color Palettes: https://colorhunt.co/
         - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
     - Swift:
-        - Initialization: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
+        - Initialization in depth: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
+        - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
+        - Using Notification Center – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
     - UIKit:
         - Building Adaptive Layout with Size Classes: https://batikansosun.medium.com/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
         - CompositionalLayout for collection views: https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
@@ -29,25 +35,18 @@ iOS Dev:
     - Networking:
         - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
         - Quicktype: https://github.com/quicktype/quicktype
+        - URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
     - Testing:
         - Swift TDD. How Many Unit Tests to Write?: https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/
         - TDD Tutorial for iOS: https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
         - Test-Driven Development Tutorial for iOS: https://instabug.com/blog/test-driven-development-tutorial/
         - How to TDD in MVC: https://qualitycoding.org/mvc-tdd/
         - iOS Unit and UI Testing Tutorial: https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
+        - Book - The Art of Unit Testing: https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
     - Courses:
         - objc swift talk: https://talk.objc.io/
+        - Appcoda: https://www.appcoda.com/learnswift/playgrounds.html
 iOS Old:
-    - Theory:
-        - Code Smells: https://sourcemaking.com/refactoring/smells
-        - Design Patterns Theory: https://sourcemaking.com/design_patterns
-        - Book - The Art of Unit Testing: https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
-        - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
-    - Swift/iOS:
-        - appcoda: https://www.appcoda.com/learnswift/playgrounds.html
-        - Swift URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
-        - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
-        - Using Notification Center In Swift (How To) – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
     - Courses:
         - iOS form Scratch: https://university.globant.com/group/1049
         - Code Reviews: https://globant.acamica.com/cursos/291/
