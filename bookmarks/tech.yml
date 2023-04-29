@@ -34,9 +34,7 @@ Tech:
         - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
     - Git tutorials:
         - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
-        - Using Multiple SSH keys: >-
-            https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
-        - Git Pull Force – How to Overwrite Local Changes With Git: >-
-            https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
+        - Using Multiple SSH keys: https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
+        - Git Pull Force – How to Overwrite Local Changes With Git: https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
         - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
         - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
