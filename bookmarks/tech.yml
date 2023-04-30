@@ -25,6 +25,17 @@ Mac:
         - 'Pass: The Standard Unix Password Manager': https://34n45sesfan2m74p3kavw6sbpu-jj2cvlaia66be-www-passwordstore-org.translate.goog/
         - The Definitive Guide to password-store | by Mathew Robinson | Medium: https://medium.com/@chasinglogic/the-definitive-guide-to-password-store-c337a8f023a1
         - pass - ArchWiki: https://wiki.archlinux.org/index.php/Pass#Install_a_bare_Git_repository_for_Pass_on_the_server
+    - check out:
+        - mps-youtube: https://github.com/mps-youtube/yewtube
+        - skhd: https://github.com/koekeishiya/skhd
+        - karabiner: https://karabiner-elements.pqrs.org/docs/json/
+        - dynamic wallpapers for macOS: https://github.com/mczachurski/wallpapper
+        - Moving to zsh, part 2: https://scriptingosx.com/2019/06/moving-to-zsh-part-2-configuration-files/
+        - alternatives to bloatware: https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md
+        - stuntbanana/stuntbanana: https://github.com/stuntbanana/stuntbanana
+        - gilesknap/gphotos-sync: https://github.com/gilesknap/gphotos-sync
+        - SathyaBhat/spotify-dl: https://github.com/SathyaBhat/spotify-dl
+        - ritiek/spotify-downloader: https://github.com/ritiek/spotify-downloader
 Server:
     - Borg:
         - Emborg — Front-End to Borg Backup: https://emborg.readthedocs.io/en/latest/
