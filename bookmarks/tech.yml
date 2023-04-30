@@ -1,16 +1,10 @@
-Software:
+Mac:
     - Obsidian Web:
         - Publishing Obsidian.md notes with GitLab Pages: https://about.gitlab.com/blog/2022/03/15/publishing-obsidian-notes-with-gitlab-pages/
         - Setting up your own digital garden with Jekyll: https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll
         - How to set up your own digital garden: https://nesslabs.com/digital-garden-set-up
         - You and your mind garden: https://nesslabs.com/mind-garden
         - Obsidian Jekyll workflow: https://refinedmind.co/obsidian-jekyll-workflow
-    - Borg:
-        - Emborg — Front-End to Borg Backup: https://emborg.readthedocs.io/en/latest/
-        - borgmatic: https://github.com/borgmatic-collective/borgmatic
-        - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
-        - BorgWarehouse - BorgBackup Web UI for your central repository server: https://borgwarehouse.com/
-        - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
     - Hammerspoon:
         - Learn Lua in Y Minutes: https://learnxinyminutes.com/docs/lua/
         - Getting Started: https://www.hammerspoon.org/go/#smartreload
@@ -31,6 +25,13 @@ Software:
         - 'Pass: The Standard Unix Password Manager': https://34n45sesfan2m74p3kavw6sbpu-jj2cvlaia66be-www-passwordstore-org.translate.goog/
         - The Definitive Guide to password-store | by Mathew Robinson | Medium: https://medium.com/@chasinglogic/the-definitive-guide-to-password-store-c337a8f023a1
         - pass - ArchWiki: https://wiki.archlinux.org/index.php/Pass#Install_a_bare_Git_repository_for_Pass_on_the_server
+Server:
+    - Borg:
+        - Emborg — Front-End to Borg Backup: https://emborg.readthedocs.io/en/latest/
+        - borgmatic: https://github.com/borgmatic-collective/borgmatic
+        - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
+        - BorgWarehouse - BorgBackup Web UI for your central repository server: https://borgwarehouse.com/
+        - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
     - Pi Hole:
         - unbound - Pi-hole documentation: https://docs.pi-hole.net/guides/dns/unbound/
         - Unbound - About: https://nlnetlabs.nl/projects/unbound/about/
@@ -39,7 +40,20 @@ Software:
         - Pi-Hole Setup Tutorial: https://linustechtips.com/main/topic/1094810-pi-hole-setup-tutorial/
         - How to Run PiHole in Docker on Ubuntu, w/ and w/o Reverse Proxy?: https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy/
         - 'Pi Hole setup guide: Ad-free better internet in 15 minutes': https://www.smarthomebeginner.com/pi-hole-setup-guide/
-Tech:
+Git:
+    - Learn:
+        - Resources to learn Git: https://try.github.io/
+        - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+        - Git Exercises: https://learngitbranching.js.org/
+        - Git - Book: https://git-scm.com/book/en/v2
+        - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
+    - Tutorials:
+        - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
+        - Using Multiple SSH keys: https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
+        - Git Pull Force – How to Overwrite Local Changes With Git: https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
+        - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
+        - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
+Misc:
     - Nitter:
         - Nitter Active: https://nitter.fly.dev/
         - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
@@ -51,15 +65,3 @@ Tech:
         - Solarized: https://ethanschoonover.com/solarized/
         - Gruvbox: https://github.com/morhetz/gruvbox
         - Dracula: https://draculatheme.com/
-    - Git Resourses:
-        - Resources to learn Git: https://try.github.io/
-        - Learn git concepts: https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
-        - Git Exercises: https://learngitbranching.js.org/
-        - Git - Book: https://git-scm.com/book/en/v2
-        - How to Use Version Control in Git & GitHub - Udacity: https://www.udacity.com/course/how-to-use-git-and-github--ud775
-    - Git tutorials:
-        - How to store dotfiles | Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials/dotfiles
-        - Using Multiple SSH keys: https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
-        - Git Pull Force – How to Overwrite Local Changes With Git: https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
-        - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
-        - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
