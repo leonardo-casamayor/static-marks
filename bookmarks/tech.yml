@@ -1,4 +1,4 @@
-Tech:
+Software:
     - Obsidian Web:
         - Publishing Obsidian.md notes with GitLab Pages: https://about.gitlab.com/blog/2022/03/15/publishing-obsidian-notes-with-gitlab-pages/
         - Setting up your own digital garden with Jekyll: https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll
@@ -39,6 +39,7 @@ Tech:
         - Pi-Hole Setup Tutorial: https://linustechtips.com/main/topic/1094810-pi-hole-setup-tutorial/
         - How to Run PiHole in Docker on Ubuntu, w/ and w/o Reverse Proxy?: https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy/
         - 'Pi Hole setup guide: Ad-free better internet in 15 minutes': https://www.smarthomebeginner.com/pi-hole-setup-guide/
+Tech:
     - Nitter:
         - Nitter Active: https://nitter.fly.dev/
         - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
