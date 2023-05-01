@@ -7,9 +7,10 @@ Development:
     - Theory:
         - Code Smells: https://sourcemaking.com/refactoring/smells
         - Design Patterns Theory: https://sourcemaking.com/design_patterns
-        - The Life Cycle of a View | Medium: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
+        - The Life Cycle of a View: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
     - UI:
         - Color Palettes: https://colorhunt.co/
+        - Dracula for SwiftUI: https://draculatheme.com/swiftui
         - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
     - Swift:
         - Initialization in depth: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
@@ -44,5 +45,5 @@ Development:
         - iOS Unit and UI Testing Tutorial: https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
         - Book - The Art of Unit Testing: https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
     - Courses:
-        - objc swift talk: https://talk.objc.io/
+        - Objc Swift Talk: https://talk.objc.io/
         - Appcoda: https://www.appcoda.com/learnswift/playgrounds.html
