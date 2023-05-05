@@ -73,3 +73,7 @@ Git:
         - Git Pull Force – How to Overwrite Local Changes With Git: https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/
         - Squash commits into one with Git - Internal Pointers: https://www.internalpointers.com/post/squash-commits-into-one-git
         - How to Squash Commits in Git | Learn Version Control with Git: https://www.git-tower.com/learn/git/faq/git-squash/
+        - Git secret repo: https://github.com/sobolevn/git-secret
+        - A guide to git secret: https://dev.to/vnjogani/a-guide-to-git-secret-49g3
+        - Git crypt repo: https://github.com/AGWA/git-crypt
+        - A guide to git crypt: https://dev.to/heroku/how-to-manage-your-secrets-with-git-crypt-56ih

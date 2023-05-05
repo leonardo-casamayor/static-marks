@@ -39,6 +39,8 @@ Development:
         - grpc swift repo: https://github.com/grpc/grpc-swift
         - Quicktype: https://github.com/quicktype/quicktype
         - URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
+    - Xcode:
+	    - Secret management: https://betterprogramming.pub/manage-secrets-in-your-ios-app-using-xcode-configuration-files-fbceb6e97f47
     - Testing:
         - Swift TDD. How Many Unit Tests to Write?: https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/
         - TDD Tutorial for iOS: https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
