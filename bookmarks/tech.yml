@@ -43,6 +43,15 @@ Server:
         - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
         - BorgWarehouse - BorgBackup Web UI for your central repository server: https://borgwarehouse.com/
         - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
+    - Nixos:
+        - my playlist: https://www.youtube.com/playlist?list=PLCvqc_hvtbH3kV3vwzqMQQ0GflM8VOoZ3
+        - will t nixos: https://www.youtube.com/playlist?list=PLCvqc_hvtbH3kV3vwzqMQQ0GflM8VOoZ3
+        - nixos challenge repo: https://github.com/JupiterBroadcasting/nixos-challenge
+        - nixos installer repo: https://github.com/DeterminateSystems/nix-installer
+    - Ansible:
+        - Jeff Geerling Ansible 101: https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
+        - Jeff Geerling mac ansible repo: https://github.com/geerlingguy/mac-dev-playbook
+        - notthebee infra repo: https://github.com/notthebee/infra
     - Pi Hole:
         - unbound - Pi-hole documentation: https://docs.pi-hole.net/guides/dns/unbound/
         - Unbound - About: https://nlnetlabs.nl/projects/unbound/about/

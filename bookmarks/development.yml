@@ -12,6 +12,7 @@ Development:
         - Color Palettes: https://colorhunt.co/
         - Dracula for SwiftUI: https://draculatheme.com/swiftui
         - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+        - awesome ios ui: https://github.com/cjwirth/awesome-ios-ui
     - Swift:
         - Initialization in depth: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
         - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
@@ -35,6 +36,7 @@ Development:
         - MVVM clean architecture github example: https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
     - Networking:
         - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
+        - grpc swift repo: https://github.com/grpc/grpc-swift
         - Quicktype: https://github.com/quicktype/quicktype
         - URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
     - Testing:
