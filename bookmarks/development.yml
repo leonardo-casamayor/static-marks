@@ -7,6 +7,8 @@ Development:
         - Code Smells: https://sourcemaking.com/refactoring/smells
         - Design Patterns Theory: https://sourcemaking.com/design_patterns
         - The Life Cycle of a View: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
+        - POP: https://www.kodeco.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started#toc-anchor-013
+        - SOLID principles: https://www.pentalog.com/blog/it-development-technology/solid-principles-object-oriented-programming/
     - UI:
         - Color Palettes: https://colorhunt.co/
         - Dracula for SwiftUI: https://draculatheme.com/swiftui
@@ -16,6 +18,8 @@ Development:
         - Initialization in depth: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
         - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
         - Using Notification Center – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
+        - Time and duration: https://developer.apple.com/documentation/swift/time-and-duration
+        - Behaviors: https://developer.apple.com/documentation/swift/basic-behaviors
     - UIKit:
         - Building Adaptive Layout with Size Classes: https://batikansosun.medium.com/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
         - CompositionalLayout for collection views: https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
@@ -38,6 +42,7 @@ Development:
         - grpc swift repo: https://github.com/grpc/grpc-swift
         - Quicktype: https://github.com/quicktype/quicktype
         - URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
+        - GCD: https://www.kodeco.com/28540615-grand-central-dispatch-tutorial-for-swift-5-part-1-2
     - Xcode:
         - XCode Tips: https://xcode.tips/
         - Secret management: https://betterprogramming.pub/manage-secrets-in-your-ios-app-using-xcode-configuration-files-fbceb6e97f47
