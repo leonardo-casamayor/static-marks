@@ -37,6 +37,7 @@ Development:
         - iOS App Architecture: https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0/chapters/2-which-architecture-is-right-for-me
         - MVP github example: https://github.com/iyadagha/iOS-mvp-sample
         - MVVM clean architecture github example: https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
+        - Clean Swift (VIP): https://medium.com/hackernoon/introducing-clean-swift-architecture-vip-770a639ad7bf
     - Networking:
         - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
         - grpc swift repo: https://github.com/grpc/grpc-swift
