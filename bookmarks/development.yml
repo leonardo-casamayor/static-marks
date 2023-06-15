@@ -37,6 +37,7 @@ Development:
         - iOS App Architecture: https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0/chapters/2-which-architecture-is-right-for-me
         - MVP github example: https://github.com/iyadagha/iOS-mvp-sample
         - MVVM clean architecture github example: https://github.com/frankvalbuena/iOS-Clean-Architecture-Example
+        - Karin Parter MVVM: https://www.youtube.com/watch?v=zRZ2cjZY-1c
         - Clean Swift (VIP): https://medium.com/hackernoon/introducing-clean-swift-architecture-vip-770a639ad7bf
     - Networking:
         - Building gRPC Client iOS Swift: https://www.alfianlosari.com/posts/building-grpc-client-swift-note-taking-app/
@@ -61,3 +62,16 @@ Development:
     - Courses:
         - Objc Swift Talk: https://talk.objc.io/
         - Appcoda: https://www.appcoda.com/learnswift/playgrounds.html
+    - Obj C:
+        - Objective-C Basic Syntax: https://www.tutorialspoint.com/objective_c/objective_c_basic_syntax.htm
+        - Objective-C Categories: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210
+    - Data Binding:
+        - Data binding techniques in mvvm (uikit): https://joelkingsleyr.com/2022/06/10/data-binding-techniques-in-mvvm-swift-uikit/
+        - Data Binding with MVVM on iOS Part 1: https://blog.devgenius.io/data-binding-in-ios-part-1-data-flows-in-mvc-3d182c065e4
+        - Data Binding with MVVM on iOS Part 2: https://blog.devgenius.io/data-binding-in-ios-part-2-keypath-and-type-erasure-8f5a5d2d1571
+    - Core Skills:
+        - How to refactor massive view controllers: https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
+        - How to use the coordinator pattern in iOS apps: https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps
+        - How to clean up your code formatting with SwiftLint: https://www.hackingwithswift.com/articles/97/how-to-clean-up-your-code-formatting-with-swiftlint
+        - How to streamline your development with Fastlane: https://www.hackingwithswift.com/articles/98/how-to-streamline-your-development-with-fastlane
+        - How to refactor your app to add unit tests: https://www.hackingwithswift.com/articles/94/how-to-refactor-your-app-to-add-unit-tests
