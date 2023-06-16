@@ -75,3 +75,4 @@ Development:
         - How to clean up your code formatting with SwiftLint: https://www.hackingwithswift.com/articles/97/how-to-clean-up-your-code-formatting-with-swiftlint
         - How to streamline your development with Fastlane: https://www.hackingwithswift.com/articles/98/how-to-streamline-your-development-with-fastlane
         - How to refactor your app to add unit tests: https://www.hackingwithswift.com/articles/94/how-to-refactor-your-app-to-add-unit-tests
+        - escaping clousures: https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d
