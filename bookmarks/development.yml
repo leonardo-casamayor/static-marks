@@ -45,6 +45,8 @@ Development:
         - Quicktype: https://github.com/quicktype/quicktype
         - URLSession: https://learnappmaking.com/urlsession-swift-networking-how-to/
         - GCD: https://www.kodeco.com/28540615-grand-central-dispatch-tutorial-for-swift-5-part-1-2
+        - Simple network layer: https://medium.com/geekculture/create-simple-network-layer-with-protocol-and-generic-in-swift-1e7e06f5ead2
+        - Generic network layer: https://meyusufdemirci.medium.com/generic-network-layer-in-ios-development-2bffff780832
     - Xcode:
         - XCode Tips: https://xcode.tips/
         - Secret management: https://betterprogramming.pub/manage-secrets-in-your-ios-app-using-xcode-configuration-files-fbceb6e97f47
