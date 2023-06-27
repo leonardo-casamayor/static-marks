@@ -71,6 +71,7 @@ Development:
         - Data binding techniques in mvvm (uikit): https://joelkingsleyr.com/2022/06/10/data-binding-techniques-in-mvvm-swift-uikit/
         - Data Binding with MVVM on iOS Part 1: https://blog.devgenius.io/data-binding-in-ios-part-1-data-flows-in-mvc-3d182c065e4
         - Data Binding with MVVM on iOS Part 2: https://blog.devgenius.io/data-binding-in-ios-part-2-keypath-and-type-erasure-8f5a5d2d1571
+        - Diffable Data Source: https://www.kodeco.com/8241072-ios-tutorial-collection-view-and-diffable-data-source
     - Core Skills:
         - How to refactor massive view controllers: https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
         - How to use the coordinator pattern in iOS apps: https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps
