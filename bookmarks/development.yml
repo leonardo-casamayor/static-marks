@@ -79,3 +79,7 @@ Development:
         - How to streamline your development with Fastlane: https://www.hackingwithswift.com/articles/98/how-to-streamline-your-development-with-fastlane
         - How to refactor your app to add unit tests: https://www.hackingwithswift.com/articles/94/how-to-refactor-your-app-to-add-unit-tests
         - escaping clousures: https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d
+    - Compass:
+        - Refactor MVC: https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
+        - Timer app - Youtube: https://www.youtube.com/watch?v=3TbdoVhgQmE
+        - Timer app -  Github: https://github.com/codeWithCal/TimerAppSwiftXcode
