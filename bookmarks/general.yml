@@ -30,7 +30,7 @@ General:
         - investing.com: https://www.investing.com/
     - Travel:
         - Capsule wardrobe: https://modernminimalism.com/how-to-build-a-capsule-wardrobe/
-Misc:
+Web:
     - Nitter:
         - Nitter Active: https://nitter.fly.dev/
         - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
@@ -42,6 +42,9 @@ Misc:
         - Solarized: https://ethanschoonover.com/solarized/
         - Gruvbox: https://github.com/morhetz/gruvbox
         - Dracula: https://draculatheme.com/
+    - Marp:
+        - Github: https://github.com/marp-team/marp-core/tree/main
+        - Documentation: https://marpit.marp.app/directives
 Old Bookmarks:
     - Books:
         - Library Genesis: http://libgen.is/
