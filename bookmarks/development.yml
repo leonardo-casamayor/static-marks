@@ -3,23 +3,40 @@ Development:
         - SwiftLint: https://github.com/realm/SwiftLint
         - SwifterSwift: https://github.com/SwifterSwift/SwifterSwift
         - Roadmap: https://github.com/gahntpo/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md
+    - Xcode:
+        - XCode Tips: https://xcode.tips/
+        - Secret management: https://betterprogramming.pub/manage-secrets-in-your-ios-app-using-xcode-configuration-files-fbceb6e97f47
     - Theory:
         - Code Smells: https://sourcemaking.com/refactoring/smells
         - Design Patterns Theory: https://sourcemaking.com/design_patterns
         - The Life Cycle of a View: https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e
         - POP: https://www.kodeco.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started#toc-anchor-013
         - SOLID principles: https://www.pentalog.com/blog/it-development-technology/solid-principles-object-oriented-programming/
-    - UI:
-        - Color Palettes: https://colorhunt.co/
-        - Dracula for SwiftUI: https://draculatheme.com/swiftui
-        - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
-        - awesome ios ui: https://github.com/cjwirth/awesome-ios-ui
     - Swift:
         - Initialization in depth: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
         - Pass Data Between View Controllers – LearnAppMaking: https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
         - Using Notification Center – LearnAppMaking: https://learnappmaking.com/notification-center-how-to-swift/
         - Time and duration: https://developer.apple.com/documentation/swift/time-and-duration
         - Behaviors: https://developer.apple.com/documentation/swift/basic-behaviors
+        - State machines: https://betterprogramming.pub/safe-state-machines-in-swift-a6e9119ef97c
+    - Data Binding:
+        - Data binding techniques in mvvm (uikit): https://joelkingsleyr.com/2022/06/10/data-binding-techniques-in-mvvm-swift-uikit/
+        - Data Binding with MVVM on iOS Part 1: https://blog.devgenius.io/data-binding-in-ios-part-1-data-flows-in-mvc-3d182c065e4
+        - Data Binding with MVVM on iOS Part 2: https://blog.devgenius.io/data-binding-in-ios-part-2-keypath-and-type-erasure-8f5a5d2d1571
+        - Diffable Data Source: https://www.kodeco.com/8241072-ios-tutorial-collection-view-and-diffable-data-source
+    - Core Skills:
+        - How to refactor massive view controllers: https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
+        - How to use the coordinator pattern in iOS apps: https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps
+        - How to clean up your code formatting with SwiftLint: https://www.hackingwithswift.com/articles/97/how-to-clean-up-your-code-formatting-with-swiftlint
+        - How to streamline your development with Fastlane: https://www.hackingwithswift.com/articles/98/how-to-streamline-your-development-with-fastlane
+        - How to refactor your app to add unit tests: https://www.hackingwithswift.com/articles/94/how-to-refactor-your-app-to-add-unit-tests
+        - escaping clousures: https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d
+        - escaping and non-escaping: https://nitinagam.medium.com/ios-interview-guide-escaping-and-non-escaping-closures-in-swift-4b1b8c810a68
+    - UI:
+        - Color Palettes: https://colorhunt.co/
+        - Dracula for SwiftUI: https://draculatheme.com/swiftui
+        - Guide To iPhone Resolutions: https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+        - awesome ios ui: https://github.com/cjwirth/awesome-ios-ui
     - UIKit:
         - Building Adaptive Layout with Size Classes: https://batikansosun.medium.com/building-adaptive-layout-with-size-classes-programmatically-40db42950c89
         - CompositionalLayout for collection views: https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/
@@ -47,9 +64,10 @@ Development:
         - GCD: https://www.kodeco.com/28540615-grand-central-dispatch-tutorial-for-swift-5-part-1-2
         - Simple network layer: https://medium.com/geekculture/create-simple-network-layer-with-protocol-and-generic-in-swift-1e7e06f5ead2
         - Generic network layer: https://meyusufdemirci.medium.com/generic-network-layer-in-ios-development-2bffff780832
-    - Xcode:
-        - XCode Tips: https://xcode.tips/
-        - Secret management: https://betterprogramming.pub/manage-secrets-in-your-ios-app-using-xcode-configuration-files-fbceb6e97f47
+    - Bluetooth:
+        - Kodeco bluetooth: https://www.kodeco.com/231-core-bluetooth-tutorial-for-ios-heart-rate-monitor
+        - core bluetooth: https://medium.com/macoclock/core-bluetooth-ble-swift-d2e7b84ea98e 
+        - github example: https://www.kodeco.com/231-core-bluetooth-tutorial-for-ios-heart-rate-monitor
     - Testing:
         - Swift TDD. How Many Unit Tests to Write?: https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/
         - TDD Tutorial for iOS: https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
@@ -57,28 +75,12 @@ Development:
         - How to TDD in MVC: https://qualitycoding.org/mvc-tdd/
         - iOS Unit and UI Testing Tutorial: https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial
         - Book - The Art of Unit Testing: https://livebook.manning.com/book/the-art-of-unit-testing-second-edition/about-this-book/
-    - Bluetooth:
-        - Kodeco bluetooth: https://www.kodeco.com/231-core-bluetooth-tutorial-for-ios-heart-rate-monitor
-        - core bluetooth: https://medium.com/macoclock/core-bluetooth-ble-swift-d2e7b84ea98e 
-        - github example: https://www.kodeco.com/231-core-bluetooth-tutorial-for-ios-heart-rate-monitor
     - Courses:
         - Objc Swift Talk: https://talk.objc.io/
         - Appcoda: https://www.appcoda.com/learnswift/playgrounds.html
     - Obj C:
         - Objective-C Basic Syntax: https://www.tutorialspoint.com/objective_c/objective_c_basic_syntax.htm
         - Objective-C Categories: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210
-    - Data Binding:
-        - Data binding techniques in mvvm (uikit): https://joelkingsleyr.com/2022/06/10/data-binding-techniques-in-mvvm-swift-uikit/
-        - Data Binding with MVVM on iOS Part 1: https://blog.devgenius.io/data-binding-in-ios-part-1-data-flows-in-mvc-3d182c065e4
-        - Data Binding with MVVM on iOS Part 2: https://blog.devgenius.io/data-binding-in-ios-part-2-keypath-and-type-erasure-8f5a5d2d1571
-        - Diffable Data Source: https://www.kodeco.com/8241072-ios-tutorial-collection-view-and-diffable-data-source
-    - Core Skills:
-        - How to refactor massive view controllers: https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
-        - How to use the coordinator pattern in iOS apps: https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps
-        - How to clean up your code formatting with SwiftLint: https://www.hackingwithswift.com/articles/97/how-to-clean-up-your-code-formatting-with-swiftlint
-        - How to streamline your development with Fastlane: https://www.hackingwithswift.com/articles/98/how-to-streamline-your-development-with-fastlane
-        - How to refactor your app to add unit tests: https://www.hackingwithswift.com/articles/94/how-to-refactor-your-app-to-add-unit-tests
-        - escaping clousures: https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d
     - Compass:
         - Refactor MVC: https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers
         - Timer app - Youtube: https://www.youtube.com/watch?v=3TbdoVhgQmE
