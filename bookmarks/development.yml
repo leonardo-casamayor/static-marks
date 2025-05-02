@@ -92,3 +92,7 @@ Development:
     - SwiftUI Text:
         - Markdown in Swift: https://www.appcoda.com/swiftui-markdown/
         - hacking with swift attributed string: https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring
+    - Tools:
+        - Excalidraw: https://excalidraw.com/
+        - json and yaml checker, ipsum generator and url codec: https://jsonchecker.com/
+        - Render (backend deployment): https://render.com/
