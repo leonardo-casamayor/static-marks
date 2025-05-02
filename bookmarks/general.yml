@@ -52,6 +52,17 @@ General:
         - moodys: https://www.moodys.com/
         - finra bonds: https://finra-markets.morningstar.com/BondCenter/
         - investing.com: https://www.investing.com/
+    - Tiendas:
+        - Betabel: https://betabel.com.ar/?utm_source=substack&utm_medium=email
+        - Elige tus verduras: https://eligetusverduras.empretienda.com.ar/
+        - Ecopop: https://www.ecopop.ar/
+        - Isla Alondra: https://www.islaalondra.com.ar/
+        - Filosofía Animal: https://comprenderparaeducar.com/clase-4201-1532
+    - Neovim:
+        - vimWiki: https://github.com/vimwiki/vimwiki
+        - Learn Neovim Guide: https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f#cbd3
+        - Outline: https://alpha2phi.medium.com/neovim-101-code-outline-66f5b814c780
+        - yaml integration: https://yamllint.readthedocs.io/en/stable/text_editors.html
 Web:
     - Nitter:
         - Nitter Active: https://nitter.fly.dev/
