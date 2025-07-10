@@ -45,11 +45,6 @@ Server:
         - Vorta—Linux Apps on Flathub: https://flathub.org/apps/details/com.borgbase.Vorta
         - BorgWarehouse - BorgBackup Web UI for your central repository server: https://borgwarehouse.com/
         - BorgBase - Simple and Secure Offsite Backups: https://www.borgbase.com/
-    - Nixos:
-        - my playlist: https://www.youtube.com/playlist?list=PLCvqc_hvtbH3kV3vwzqMQQ0GflM8VOoZ3
-        - will t nixos: https://www.youtube.com/playlist?list=PLCvqc_hvtbH3kV3vwzqMQQ0GflM8VOoZ3
-        - nixos challenge repo: https://github.com/JupiterBroadcasting/nixos-challenge
-        - nixos installer repo: https://github.com/DeterminateSystems/nix-installer
     - Ansible:
         - Jeff Geerling Ansible 101: https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
         - Jeff Geerling mac ansible repo: https://github.com/geerlingguy/mac-dev-playbook
@@ -79,3 +74,22 @@ Git:
         - A guide to git secret: https://dev.to/vnjogani/a-guide-to-git-secret-49g3
         - Git crypt repo: https://github.com/AGWA/git-crypt
         - A guide to git crypt: https://dev.to/heroku/how-to-manage-your-secrets-with-git-crypt-56ih
+Nix:
+    - General:
+        - nixos manual: https://nixos.org/manual/nixos/stable/
+        - determinate installer: https://github.com/DeterminateSystems/nix-installer
+        - nix playlist: https://www.youtube.com/playlist?list=PLCvqc_hvtbH3kV3vwzqMQQ0GflM8VOoZ3
+    - Learn nix:
+        - nix.dev: https://nix.dev/
+        - nix pills: https://nixos.org/guides/nix-pills/
+        - zero to nix: https://zero-to-nix.com/
+        - Getting started with Nix and Nix Flakes: https://dev.to/arnu515/getting-started-with-nix-and-nix-flakes-mml
+        - Easy development environments with Nix and Nix flakes: https://dev.to/arnu515/easy-development-environments-with-nix-and-nix-flakes-21mb
+    - Nix for mac:
+        - devbox: https://www.jetify.com/devbox/
+        - create a devbox on mac: https://github.com/wintermi/nix-macos-devbox
+        - setup nix on macos: https://nixcademy.com/posts/nix-on-macos/
+    - Nix dev ops:
+        - Hydra: https://github.com/NixOS/hydra
+        - NixOps4: https://github.com/nixops4/nixops4
+        - nixos-hardware: https://github.com/NixOS/nixos-hardware
