@@ -9,7 +9,7 @@ General:
     - Media:
         - HBO: https://play.hbomax.com/my-stuff
         - Stremio: https://web.stremio.com/#/
-        - Jellyfinn: https://web.stremio.com/#/
+        - Jellyfinn: http://avb:8096/web/#/home.html
         - CineAR: https://play.cine.ar/inicio
     - Mail:
         - Mailnesia: https://mailnesia.com/
