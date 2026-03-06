@@ -1,120 +1,122 @@
 General:
-    - Tools:
-        - Infobae: https://www.infobae.com/
-        - Corta: https://corta.com/
-        - Nati Maldini Taplink: https://taplink.cc/natymaldini?fbclid=PAZXh0bgNhZW0CMTEAAadLIH9J9CMPLYz4o2V5GnTsMSdjYegA0hOtJeqNfNSLabvr9_9wElDuq2c5pQ_aem_FyHD7xdgfl_TxAC6ZAlcSQ
-        - Feriados 2025: https://www.argentina.gob.ar/interior/feriados-nacionales-2025
-        - qr code monkey: https://www.argentina.gob.ar/interior/feriados-nacionales-2025
-        - cobalt: https://cobalt.tools/
-    - AI:
-        - OpenCode: https://opencode.ai/
-        - code rabbit: https://www.coderabbit.ai/
-    - Tools:
-        - Posthog: https://posthog.com/
-        - Convex: https://www.convex.dev/
-    - Articles:
-        - Indie, Alone, and Figuring It Out: https://danijelavrzan.com/posts/2025/11/indie-dev/
-        - Logging sucks: https://loggingsucks.com/
-        - Claude Code and What Comes Next: https://www.oneusefulthing.org/p/claude-code-and-what-comes-next
-    - Media:
-        - HBO: https://play.hbomax.com/my-stuff
-        - Stremio: https://web.stremio.com/#/
-        - Jellyfinn: http://avb:8096/web/#/home.html
-        - CineAR: https://play.cine.ar/inicio
-    - Mail:
-        - Mailnesia: https://mailnesia.com/
-        - 10 Minute Mail: https://10minutemail.com/
-        - Guerrilla Mail: https://www.guerrillamail.com/inbox
-        - Spamgourmet: https://www.spamgourmet.com/index.pl
-    - Privacy and Sec:
-        - PrivacyTools: https://privacytools.io/
-        - Cover Your Tracks: https://coveryourtracks.eff.org/
-        - IP Leak: https://ipleak.net/
-        - Just Delete Me: https://justdeleteme.xyz/
-        - WiGLE: https://wigle.net/
-    - Reddit:
-        - Smallstreetbets: https://www.reddit.com/r/smallstreetbets/
-        - Wallstreetbets: https://www.reddit.com/r/wallstreetbets/
-        - PMTraders: https://www.reddit.com/r/PMTraders/
-        - thetagang: https://www.reddit.com/r/thetagang/
-    - Torrents:
-        - Rutracker: https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Frutracker.org%2Fforum%2Flogin.php
-        - Torrentz2: http://torrentz2.is/
-        - AIO Search: http://www.aiosearch.com/
-    - Typing:
-        - Medium - How to type 100 words per minute: https://roosterdan.medium.com/how-to-type-100-words-per-minute-a780fd80fd27
-        - Typing Club: http://typingclub.com/
-        - Monkeytype: http://monkeytype.com/
-        - Keybr: http://keybr.com/
-        - touch typing tutor: http://touchtypingtutor.net/
-        - 10 fast fingers: http://10fastfingers.com/
-        - termtyper: https://github.com/kraanzu/termtyper
-        - keymash: https://keymash.io/
-        - typeracer: https://play.typeracer.com/
-        - typing.com: https://www.typing.com/
-    - Cooking:
-        - folivora envios: https://www.folivoravegan.com/envios/
-        - 10 weeks to vegan: https://veganoutreach.org/10-weeks-to-vegan/?incoming=10w-AR
-        - one week plan: https://loveveg.com/getting-started/one-week-plan/
-        - platos fuertes: https://loveveg.mx/recetas/platos-fuertes/
-        - vegana arg: https://veganaarg.empretienda.com.ar/productos
-        - hernan nutricion: https://hernan-nutricion.com/#on-demand
-    - Travel:
-        - Capsule wardrobe: https://modernminimalism.com/how-to-build-a-capsule-wardrobe/
-        - ba as 1: https://www.mdzol.com/estilo/2021/8/14/pueblos-bonitos-tranquilos-para-una-escapada-de-finde-cerca-de-buenos-aires-179598.html
-        - ba as 2: https://viajeydescubra.com/pueblos-buenos-aires-escapada/
-        - ba as 3: https://fueradeeje.com/2020/05/27/32-destinos-para-conocer-en-buenos-aires-provincia/
-    - Investing:
-        - Options - WSB: https://www.reddit.com/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/
-        - THETA GANG: https://thetagang.com/
-        - theta gang 3 year performance post: https://www.reddit.com/r/thetagang/comments/rx2e29/200k_1m_in_3_years_thanks_thetagang/?utm_source=share&utm_medium=web2x&context=3
-        - Market Chameleon: https://marketchameleon.com/
-        - In the money trading series: https://www.youtube.com/playlist?list=PLl1r2YBYXhIEkuipmppphqJEJbBDiH8Ch
-        - In the money technical analysis: https://www.youtube.com/playlist?list=PLl1r2YBYXhIF6uMlMnenyv84n9udrhyh-
-        - zacks: https://www.zacks.com/
-        - seeking alpha: https://seekingalpha.com/
-        - open insider: http://openinsider.com/
-        - whale wisdom: https://whalewisdom.com
-        - moodys: https://www.moodys.com/
-        - finra bonds: https://finra-markets.morningstar.com/BondCenter/
-        - investing.com: https://www.investing.com/
-    - Tiendas:
-        - Betabel: https://betabel.com.ar/?utm_source=substack&utm_medium=email
-        - Elige tus verduras: https://eligetusverduras.empretienda.com.ar/
-        - Ecopop: https://www.ecopop.ar/
-        - Isla Alondra: https://www.islaalondra.com.ar/
-        - Filosofía Animal: https://comprenderparaeducar.com/clase-4201-1532
-    - Neovim:
-        - vimWiki: https://github.com/vimwiki/vimwiki
-        - Learn Neovim Guide: https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f#cbd3
-        - Outline: https://alpha2phi.medium.com/neovim-101-code-outline-66f5b814c780
-        - yaml integration: https://yamllint.readthedocs.io/en/stable/text_editors.html
+  - Tools:
+      - Infobae: https://www.infobae.com/
+      - Corta: https://corta.com/
+      - Nati Maldini Taplink: https://taplink.cc/natymaldini?fbclid=PAZXh0bgNhZW0CMTEAAadLIH9J9CMPLYz4o2V5GnTsMSdjYegA0hOtJeqNfNSLabvr9_9wElDuq2c5pQ_aem_FyHD7xdgfl_TxAC6ZAlcSQ
+      - Feriados 2025: https://www.argentina.gob.ar/interior/feriados-nacionales-2025
+      - qr code monkey: https://www.argentina.gob.ar/interior/feriados-nacionales-2025
+      - cobalt: https://cobalt.tools/
+      - Dynatrace: https://www.dynatrace.com/
+  - AI:
+      - OpenCode: https://opencode.ai/
+      - code rabbit: https://www.coderabbit.ai/
+  - Tools:
+      - Posthog: https://posthog.com/
+      - Convex: https://www.convex.dev/
+      - Dynatrace: https://www.dynatrace.com/
+  - Articles:
+      - Indie, Alone, and Figuring It Out: https://danijelavrzan.com/posts/2025/11/indie-dev/
+      - Logging sucks: https://loggingsucks.com/
+      - Claude Code and What Comes Next: https://www.oneusefulthing.org/p/claude-code-and-what-comes-next
+  - Media:
+      - HBO: https://play.hbomax.com/my-stuff
+      - Stremio: https://web.stremio.com/#/
+      - Jellyfinn: http://avb:8096/web/#/home.html
+      - CineAR: https://play.cine.ar/inicio
+  - Mail:
+      - Mailnesia: https://mailnesia.com/
+      - 10 Minute Mail: https://10minutemail.com/
+      - Guerrilla Mail: https://www.guerrillamail.com/inbox
+      - Spamgourmet: https://www.spamgourmet.com/index.pl
+  - Privacy and Sec:
+      - PrivacyTools: https://privacytools.io/
+      - Cover Your Tracks: https://coveryourtracks.eff.org/
+      - IP Leak: https://ipleak.net/
+      - Just Delete Me: https://justdeleteme.xyz/
+      - WiGLE: https://wigle.net/
+  - Reddit:
+      - Smallstreetbets: https://www.reddit.com/r/smallstreetbets/
+      - Wallstreetbets: https://www.reddit.com/r/wallstreetbets/
+      - PMTraders: https://www.reddit.com/r/PMTraders/
+      - thetagang: https://www.reddit.com/r/thetagang/
+  - Torrents:
+      - Rutracker: https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Frutracker.org%2Fforum%2Flogin.php
+      - Torrentz2: http://torrentz2.is/
+      - AIO Search: http://www.aiosearch.com/
+  - Typing:
+      - Medium - How to type 100 words per minute: https://roosterdan.medium.com/how-to-type-100-words-per-minute-a780fd80fd27
+      - Typing Club: http://typingclub.com/
+      - Monkeytype: http://monkeytype.com/
+      - Keybr: http://keybr.com/
+      - touch typing tutor: http://touchtypingtutor.net/
+      - 10 fast fingers: http://10fastfingers.com/
+      - termtyper: https://github.com/kraanzu/termtyper
+      - keymash: https://keymash.io/
+      - typeracer: https://play.typeracer.com/
+      - typing.com: https://www.typing.com/
+  - Cooking:
+      - folivora envios: https://www.folivoravegan.com/envios/
+      - 10 weeks to vegan: https://veganoutreach.org/10-weeks-to-vegan/?incoming=10w-AR
+      - one week plan: https://loveveg.com/getting-started/one-week-plan/
+      - platos fuertes: https://loveveg.mx/recetas/platos-fuertes/
+      - vegana arg: https://veganaarg.empretienda.com.ar/productos
+      - hernan nutricion: https://hernan-nutricion.com/#on-demand
+  - Travel:
+      - Capsule wardrobe: https://modernminimalism.com/how-to-build-a-capsule-wardrobe/
+      - ba as 1: https://www.mdzol.com/estilo/2021/8/14/pueblos-bonitos-tranquilos-para-una-escapada-de-finde-cerca-de-buenos-aires-179598.html
+      - ba as 2: https://viajeydescubra.com/pueblos-buenos-aires-escapada/
+      - ba as 3: https://fueradeeje.com/2020/05/27/32-destinos-para-conocer-en-buenos-aires-provincia/
+  - Investing:
+      - Options - WSB: https://www.reddit.com/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/
+      - THETA GANG: https://thetagang.com/
+      - theta gang 3 year performance post: https://www.reddit.com/r/thetagang/comments/rx2e29/200k_1m_in_3_years_thanks_thetagang/?utm_source=share&utm_medium=web2x&context=3
+      - Market Chameleon: https://marketchameleon.com/
+      - In the money trading series: https://www.youtube.com/playlist?list=PLl1r2YBYXhIEkuipmppphqJEJbBDiH8Ch
+      - In the money technical analysis: https://www.youtube.com/playlist?list=PLl1r2YBYXhIF6uMlMnenyv84n9udrhyh-
+      - zacks: https://www.zacks.com/
+      - seeking alpha: https://seekingalpha.com/
+      - open insider: http://openinsider.com/
+      - whale wisdom: https://whalewisdom.com
+      - moodys: https://www.moodys.com/
+      - finra bonds: https://finra-markets.morningstar.com/BondCenter/
+      - investing.com: https://www.investing.com/
+  - Tiendas:
+      - Betabel: https://betabel.com.ar/?utm_source=substack&utm_medium=email
+      - Elige tus verduras: https://eligetusverduras.empretienda.com.ar/
+      - Ecopop: https://www.ecopop.ar/
+      - Isla Alondra: https://www.islaalondra.com.ar/
+      - Filosofía Animal: https://comprenderparaeducar.com/clase-4201-1532
+  - Neovim:
+      - vimWiki: https://github.com/vimwiki/vimwiki
+      - Learn Neovim Guide: https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f#cbd3
+      - Outline: https://alpha2phi.medium.com/neovim-101-code-outline-66f5b814c780
+      - yaml integration: https://yamllint.readthedocs.io/en/stable/text_editors.html
 Web:
-    - Nitter:
-        - Nitter Active: https://nitter.fly.dev/
-        - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
-    - Hugo Themes:
-        - Shell: https://themes.gohugo.io/themes/hugo-theme-shell/
-        - Terminal: https://themes.gohugo.io/themes/hugo-theme-terminal/
-    - Terminal Themes:
-        - Nord: https://www.nordtheme.com/
-        - Solarized: https://ethanschoonover.com/solarized/
-        - Gruvbox: https://github.com/morhetz/gruvbox
-        - Dracula: https://draculatheme.com/
-    - Marp:
-        - Github: https://github.com/marp-team/marp-core/tree/main
-        - Documentation: https://marpit.marp.app/directives
+  - Nitter:
+      - Nitter Active: https://nitter.fly.dev/
+      - Nitter Instances: https://github.com/zedeus/nitter/wiki/Instances
+  - Hugo Themes:
+      - Shell: https://themes.gohugo.io/themes/hugo-theme-shell/
+      - Terminal: https://themes.gohugo.io/themes/hugo-theme-terminal/
+  - Terminal Themes:
+      - Nord: https://www.nordtheme.com/
+      - Solarized: https://ethanschoonover.com/solarized/
+      - Gruvbox: https://github.com/morhetz/gruvbox
+      - Dracula: https://draculatheme.com/
+  - Marp:
+      - Github: https://github.com/marp-team/marp-core/tree/main
+      - Documentation: https://marpit.marp.app/directives
 Old Bookmarks:
-    - Books:
-        - Library Genesis: http://libgen.is/
-        - John Hunt Publishing: https://www.johnhuntpublishing.com/
-        - Verso: https://www.versobooks.com/books
-        - Haymarket Books: https://www.haymarketbooks.org/
-        - Biblio: http://biblio.com/
-        - Open Library: https://openlibrary.org/
-        - OpenLibra: http://www.etnassoft.com/biblioteca
-        - Gutenberg: https://www.gutenberg.org/
-    - Resources:
-        - Zooniverse Projects: https://www.zooniverse.org/#/projects
-        - DondeReciclo.org: http://www.dondereciclo.org.ar/
-        - Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+  - Books:
+      - Library Genesis: http://libgen.is/
+      - John Hunt Publishing: https://www.johnhuntpublishing.com/
+      - Verso: https://www.versobooks.com/books
+      - Haymarket Books: https://www.haymarketbooks.org/
+      - Biblio: http://biblio.com/
+      - Open Library: https://openlibrary.org/
+      - OpenLibra: http://www.etnassoft.com/biblioteca
+      - Gutenberg: https://www.gutenberg.org/
+  - Resources:
+      - Zooniverse Projects: https://www.zooniverse.org/#/projects
+      - DondeReciclo.org: http://www.dondereciclo.org.ar/
+      - Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
